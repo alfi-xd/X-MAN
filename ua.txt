@@ -1,0 +1,904 @@
+Davik/2.1.0 (Linux; U; Android 10; RMX2030 Build/QKQ1.200209.002) [FBAN/MessengerLite;FBAV/323.0.0.1.122;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/906763950;FBCR/Robi;FBMF/realme;FBBD/realme;FBDV/RMX2030;FBSV/10;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.25,height=1024,width=2048};] 
+Davik/2.1.0 (Linux; U; Android 10; RMX2030 Build/QKQ1.200209.002) [FBAN/MessengerLite;FBAV/325.0.0.7.119;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/492709268;FBCR/Robi;FBMF/realme;FBBD/realme;FBDV/RMX2030;FBSV/10;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.25,height=1024,width=2048};] 
+Davik/2.1.0 (Linux; U; Android 10; RMX2030 Build/QKQ1.200209.002) [FBAN/MessengerLite;FBAV/325.0.0.8.105;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/372662864;FBCR/Robi;FBMF/realme;FBBD/realme;FBDV/RMX2030;FBSV/10;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.25,height=1024,width=2048};] 
+Davik/2.1.0 (Linux; U; Android 10; RMX2030 Build/QKQ1.200209.002) [FBAN/MessengerLite;FBAV/322.0.0.8.47;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/526055885;FBCR/Robi;FBMF/realme;FBBD/realme;FBDV/RMX2030;FBSV/10;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.25,height=1024,width=2048};] 
+Davik/2.1.0 (Linux; U; Android 10; RMX2030 Build/QKQ1.200209.002) [FBAN/MessengerLite;FBAV/315.0.0.3.101;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/463676339;FBCR/Robi;FBMF/realme;FBBD/realme;FBDV/RMX2030;FBSV/10;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.25,height=1024,width=2048};]
+Davik/2.1.0 (Linux; U; Android 13; P40 Pro Build/Build-365) [FBAN/MessengerLite;FBAV/312.0.0.5.56;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/257568420;FBCR/Unknown;FBMF/Asus;FBBD/Xiaomi;FBDV/P40 Pro;FBSV/13;FBCA/arm64-v8a;FBDM/{density=2.25,height=2989,width=2371};]
+Davik/2.1.0 (Linux; U; Android 14; Pixel 6 Build/Build-689) [FBAN/MessengerLite;FBAV/310.0.0.6.125;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/777505343;FBCR/Unknown;FBMF/Nokia;FBBD/Samsung;FBDV/Pixel 6;FBSV/14;FBCA/x86;FBDM/{density=2.25,height=1964,width=2487};]
+Davik/2.1.0 (Linux; U; Android 11; BlackBerry Key2 Build/Build-942) [FBAN/MessengerLite;FBAV/308.0.0.3.44;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/190684836;FBCR/Unknown;FBMF/LG;FBBD/Nokia;FBDV/BlackBerry Key2;FBSV/11;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1751,width=2604};]
+Davik/2.1.0 (Linux; U; Android 9.0; Essential Phone PH-1 Build/Build-431) [FBAN/MessengerLite;FBAV/303.0.0.4.144;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/273030567;FBCR/Unknown;FBMF/OnePlus;FBBD/Sony;FBDV/Essential Phone PH-1;FBSV/9.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1052,width=1121};]
+Davik/2.1.0 (Linux; U; Android 11; ROG Phone 5 Build/Build-258) [FBAN/MessengerLite;FBAV/316.0.0.3.99;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/716733489;FBCR/Unknown;FBMF/Xiaomi;FBBD/Samsung;FBDV/ROG Phone 5;FBSV/11;FBCA/x86_64;FBDM/{density=2.25,height=2599,width=2255};]
+Davik/2.1.0 (Linux; U; Android 11; Xperia 1 III Build/Build-942) [FBAN/MessengerLite;FBAV/300.0.0.6.75;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/752767231;FBCR/Unknown;FBMF/Realme;FBBD/OnePlus;FBDV/Xperia 1 III;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=1347,width=1559};]
+Davik/2.1.0 (Linux; U; Android 14; Moto G Power Build/Build-311) [FBAN/MessengerLite;FBAV/310.0.0.3.58;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/262121078;FBCR/Unknown;FBMF/Asus;FBBD/Samsung;FBDV/Moto G Power;FBSV/14;FBCA/arm64-v8a;FBDM/{density=2.25,height=1699,width=2916};]
+Davik/2.1.0 (Linux; U; Android 12; P40 Pro Build/Build-242) [FBAN/MessengerLite;FBAV/302.0.0.6.77;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/332839918;FBCR/Unknown;FBMF/Motorola;FBBD/Realme;FBDV/P40 Pro;FBSV/12;FBCA/arm64-v8a;FBDM/{density=2.25,height=1777,width=1809};]
+Davik/2.1.0 (Linux; U; Android 10; BlackBerry Key2 Build/Build-959) [FBAN/MessengerLite;FBAV/324.0.0.7.104;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/906102138;FBCR/Unknown;FBMF/Asus;FBBD/Realme;FBDV/BlackBerry Key2;FBSV/10;FBCA/x86;FBDM/{density=2.25,height=2208,width=1973};]
+Davik/2.1.0 (Linux; U; Android 12; OnePlus 9 Build/Build-340) [FBAN/MessengerLite;FBAV/312.0.0.7.51;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/989069831;FBCR/Unknown;FBMF/Huawei;FBBD/OnePlus;FBDV/OnePlus 9;FBSV/12;FBCA/x86;FBDM/{density=2.25,height=2455,width=1805};]
+Davik/2.1.0 (Linux; U; Android 13; ROG Phone 5 Build/Build-265) [FBAN/MessengerLite;FBAV/323.0.0.1.147;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/837811915;FBCR/Unknown;FBMF/Google;FBBD/Asus;FBDV/ROG Phone 5;FBSV/13;FBCA/x86_64;FBDM/{density=2.25,height=1516,width=2000};]
+Davik/2.1.0 (Linux; U; Android 9.0; BlackBerry Key2 Build/Build-143) [FBAN/MessengerLite;FBAV/323.0.0.4.68;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/539571103;FBCR/Unknown;FBMF/Google;FBBD/Nokia;FBDV/BlackBerry Key2;FBSV/9.0;FBCA/x86;FBDM/{density=2.25,height=2004,width=1725};]
+Davik/2.1.0 (Linux; U; Android 9.0; LG Wing Build/Build-914) [FBAN/MessengerLite;FBAV/315.0.0.7.129;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/113667493;FBCR/Unknown;FBMF/Vivo;FBBD/Realme;FBDV/LG Wing;FBSV/9.0;FBCA/x86;FBDM/{density=2.25,height=2198,width=1121};]
+Davik/2.1.0 (Linux; U; Android 11; Xperia 1 III Build/Build-187) [FBAN/MessengerLite;FBAV/321.0.0.2.57;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/610328397;FBCR/Unknown;FBMF/Realme;FBBD/LG;FBDV/Xperia 1 III;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=2873,width=1133};]
+Davik/2.1.0 (Linux; U; Android 8.0; BlackBerry Key2 Build/Build-318) [FBAN/MessengerLite;FBAV/301.0.0.2.85;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/454389553;FBCR/Unknown;FBMF/Oppo;FBBD/Huawei;FBDV/BlackBerry Key2;FBSV/8.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1232,width=2937};]
+Davik/2.1.0 (Linux; U; Android 7.0; P40 Pro Build/Build-213) [FBAN/MessengerLite;FBAV/302.0.0.7.98;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/424711558;FBCR/Unknown;FBMF/Motorola;FBBD/OnePlus;FBDV/P40 Pro;FBSV/7.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1213,width=2813};]
+Davik/2.1.0 (Linux; U; Android 9.0; Nokia 8.3 Build/Build-366) [FBAN/MessengerLite;FBAV/307.0.0.1.139;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/121128952;FBCR/Unknown;FBMF/Huawei;FBBD/LG;FBDV/Nokia 8.3;FBSV/9.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2673,width=1414};]
+Davik/2.1.0 (Linux; U; Android 8.0; P40 Pro Build/Build-796) [FBAN/MessengerLite;FBAV/324.0.0.1.44;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/111595925;FBCR/Unknown;FBMF/Oppo;FBBD/Asus;FBDV/P40 Pro;FBSV/8.0;FBCA/x86;FBDM/{density=2.25,height=2827,width=2193};]
+Davik/2.1.0 (Linux; U; Android 13; P40 Pro Build/Build-635) [FBAN/MessengerLite;FBAV/309.0.0.6.82;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/784129928;FBCR/Unknown;FBMF/Sony;FBBD/Google;FBDV/P40 Pro;FBSV/13;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1915,width=2597};]
+Davik/2.1.0 (Linux; U; Android 14; Essential Phone PH-1 Build/Build-203) [FBAN/MessengerLite;FBAV/305.0.0.2.102;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/527458980;FBCR/Unknown;FBMF/LG;FBBD/LG;FBDV/Essential Phone PH-1;FBSV/14;FBCA/arm64-v8a;FBDM/{density=2.25,height=1846,width=1558};]
+Davik/2.1.0 (Linux; U; Android 10; BlackBerry Key2 Build/Build-249) [FBAN/MessengerLite;FBAV/319.0.0.2.79;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/359578316;FBCR/Unknown;FBMF/Samsung;FBBD/LG;FBDV/BlackBerry Key2;FBSV/10;FBCA/x86;FBDM/{density=2.25,height=1918,width=2174};]
+Davik/2.1.0 (Linux; U; Android 8.0; Galaxy S21 Build/Build-424) [FBAN/MessengerLite;FBAV/313.0.0.2.65;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/380633851;FBCR/Unknown;FBMF/OnePlus;FBBD/LG;FBDV/Galaxy S21;FBSV/8.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1337,width=1121};]
+Davik/2.1.0 (Linux; U; Android 9.0; BlackBerry Key2 Build/Build-746) [FBAN/MessengerLite;FBAV/305.0.0.3.91;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/141562392;FBCR/Unknown;FBMF/Samsung;FBBD/Oppo;FBDV/BlackBerry Key2;FBSV/9.0;FBCA/x86;FBDM/{density=2.25,height=2407,width=2145};]
+Davik/2.1.0 (Linux; U; Android 9.0; Galaxy S21 Build/Build-526) [FBAN/MessengerLite;FBAV/317.0.0.2.62;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/828860180;FBCR/Unknown;FBMF/Sony;FBBD/Xiaomi;FBDV/Galaxy S21;FBSV/9.0;FBCA/x86;FBDM/{density=2.25,height=2621,width=1033};]
+Davik/2.1.0 (Linux; U; Android 7.0; Nokia 8.3 Build/Build-335) [FBAN/MessengerLite;FBAV/323.0.0.8.116;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/370855841;FBCR/Unknown;FBMF/Nokia;FBBD/Asus;FBDV/Nokia 8.3;FBSV/7.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2071,width=2035};]
+Davik/2.1.0 (Linux; U; Android 8.0; Pixel 6 Build/Build-853) [FBAN/MessengerLite;FBAV/322.0.0.5.129;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/977184341;FBCR/Unknown;FBMF/Realme;FBBD/Huawei;FBDV/Pixel 6;FBSV/8.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1607,width=1470};]
+Davik/2.1.0 (Linux; U; Android 10; Find X3 Pro Build/Build-147) [FBAN/MessengerLite;FBAV/302.0.0.2.74;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/795769525;FBCR/Unknown;FBMF/Sony;FBBD/Asus;FBDV/Find X3 Pro;FBSV/10;FBCA/x86;FBDM/{density=2.25,height=1372,width=2159};]
+Davik/2.1.0 (Linux; U; Android 10; Galaxy S21 Build/Build-859) [FBAN/MessengerLite;FBAV/307.0.0.3.101;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/874946562;FBCR/Unknown;FBMF/Xiaomi;FBBD/Motorola;FBDV/Galaxy S21;FBSV/10;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1705,width=2396};]
+Davik/2.1.0 (Linux; U; Android 13; Nokia 8.3 Build/Build-655) [FBAN/MessengerLite;FBAV/316.0.0.3.76;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/413294712;FBCR/Unknown;FBMF/Oppo;FBBD/Nokia;FBDV/Nokia 8.3;FBSV/13;FBCA/x86_64;FBDM/{density=2.25,height=2854,width=1187};]
+Davik/2.1.0 (Linux; U; Android 9.0; Find X3 Pro Build/Build-219) [FBAN/MessengerLite;FBAV/302.0.0.3.134;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/342251367;FBCR/Unknown;FBMF/Oppo;FBBD/Motorola;FBDV/Find X3 Pro;FBSV/9.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1263,width=1873};]
+Davik/2.1.0 (Linux; U; Android 7.0; Galaxy S21 Build/Build-518) [FBAN/MessengerLite;FBAV/311.0.0.6.67;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/953019351;FBCR/Unknown;FBMF/LG;FBBD/Xiaomi;FBDV/Galaxy S21;FBSV/7.0;FBCA/x86;FBDM/{density=2.25,height=2191,width=2837};]
+Davik/2.1.0 (Linux; U; Android 13; BlackBerry Key2 Build/Build-125) [FBAN/MessengerLite;FBAV/313.0.0.5.106;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/161183636;FBCR/Unknown;FBMF/Samsung;FBBD/Oppo;FBDV/BlackBerry Key2;FBSV/13;FBCA/x86;FBDM/{density=2.25,height=1555,width=2773};]
+Davik/2.1.0 (Linux; U; Android 7.0; Essential Phone PH-1 Build/Build-942) [FBAN/MessengerLite;FBAV/300.0.0.3.85;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/197249019;FBCR/Unknown;FBMF/Nokia;FBBD/Vivo;FBDV/Essential Phone PH-1;FBSV/7.0;FBCA/x86;FBDM/{density=2.25,height=2942,width=1324};]
+Davik/2.1.0 (Linux; U; Android 12; Galaxy S21 Build/Build-820) [FBAN/MessengerLite;FBAV/308.0.0.4.142;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/720311066;FBCR/Unknown;FBMF/Motorola;FBBD/Sony;FBDV/Galaxy S21;FBSV/12;FBCA/x86_64;FBDM/{density=2.25,height=2604,width=2089};]
+Davik/2.1.0 (Linux; U; Android 14; Xperia 1 III Build/Build-708) [FBAN/MessengerLite;FBAV/309.0.0.5.128;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/366994334;FBCR/Unknown;FBMF/Samsung;FBBD/Samsung;FBDV/Xperia 1 III;FBSV/14;FBCA/x86;FBDM/{density=2.25,height=1547,width=2329};]
+Davik/2.1.0 (Linux; U; Android 8.0; Essential Phone PH-1 Build/Build-947) [FBAN/MessengerLite;FBAV/324.0.0.5.73;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/149063060;FBCR/Unknown;FBMF/Realme;FBBD/LG;FBDV/Essential Phone PH-1;FBSV/8.0;FBCA/x86_64;FBDM/{density=2.25,height=2906,width=1853};]
+Davik/2.1.0 (Linux; U; Android 13; Find X3 Pro Build/Build-397) [FBAN/MessengerLite;FBAV/320.0.0.7.145;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/520104784;FBCR/Unknown;FBMF/Xiaomi;FBBD/Huawei;FBDV/Find X3 Pro;FBSV/13;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2719,width=2546};]
+Davik/2.1.0 (Linux; U; Android 12; Moto G Power Build/Build-212) [FBAN/MessengerLite;FBAV/320.0.0.2.76;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/111516224;FBCR/Unknown;FBMF/Oppo;FBBD/Huawei;FBDV/Moto G Power;FBSV/12;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2637,width=1626};]
+Davik/2.1.0 (Linux; U; Android 9.0; ROG Phone 5 Build/Build-689) [FBAN/MessengerLite;FBAV/313.0.0.5.149;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/814816018;FBCR/Unknown;FBMF/Huawei;FBBD/Samsung;FBDV/ROG Phone 5;FBSV/9.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2696,width=2471};]
+Davik/2.1.0 (Linux; U; Android 8.0; Redmi Note 10 Build/Build-617) [FBAN/MessengerLite;FBAV/302.0.0.3.53;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/197893013;FBCR/Unknown;FBMF/Sony;FBBD/Oppo;FBDV/Redmi Note 10;FBSV/8.0;FBCA/x86_64;FBDM/{density=2.25,height=2187,width=1059};]
+Davik/2.1.0 (Linux; U; Android 11; Moto G Power Build/Build-785) [FBAN/MessengerLite;FBAV/324.0.0.3.88;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/455812345;FBCR/Unknown;FBMF/Realme;FBBD/Huawei;FBDV/Moto G Power;FBSV/11;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1971,width=1561};]
+Davik/2.1.0 (Linux; U; Android 11; Pixel 6 Build/Build-225) [FBAN/MessengerLite;FBAV/301.0.0.7.136;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/943086227;FBCR/Unknown;FBMF/Samsung;FBBD/Motorola;FBDV/Pixel 6;FBSV/11;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2555,width=2932};]
+Davik/2.1.0 (Linux; U; Android 9.0; Pixel 6 Build/Build-673) [FBAN/MessengerLite;FBAV/311.0.0.2.43;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/921897051;FBCR/Unknown;FBMF/Realme;FBBD/Huawei;FBDV/Pixel 6;FBSV/9.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1572,width=1310};]
+Davik/2.1.0 (Linux; U; Android 10; Essential Phone PH-1 Build/Build-347) [FBAN/MessengerLite;FBAV/304.0.0.7.47;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/904934256;FBCR/Unknown;FBMF/Asus;FBBD/Realme;FBDV/Essential Phone PH-1;FBSV/10;FBCA/arm64-v8a;FBDM/{density=2.25,height=1851,width=2179};]
+Davik/2.1.0 (Linux; U; Android 8.0; BlackBerry Key2 Build/Build-551) [FBAN/MessengerLite;FBAV/319.0.0.2.106;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/303352549;FBCR/Unknown;FBMF/Asus;FBBD/Huawei;FBDV/BlackBerry Key2;FBSV/8.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2762,width=2985};]
+Davik/2.1.0 (Linux; U; Android 12; OnePlus 9 Build/Build-370) [FBAN/MessengerLite;FBAV/305.0.0.1.53;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/507414359;FBCR/Unknown;FBMF/Xiaomi;FBBD/OnePlus;FBDV/OnePlus 9;FBSV/12;FBCA/arm64-v8a;FBDM/{density=2.25,height=1612,width=2155};]
+Davik/2.1.0 (Linux; U; Android 13; Find X3 Pro Build/Build-990) [FBAN/MessengerLite;FBAV/307.0.0.1.115;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/403100833;FBCR/Unknown;FBMF/Google;FBBD/Oppo;FBDV/Find X3 Pro;FBSV/13;FBCA/x86;FBDM/{density=2.25,height=1715,width=1818};]
+Davik/2.1.0 (Linux; U; Android 8.0; Find X3 Pro Build/Build-737) [FBAN/MessengerLite;FBAV/300.0.0.8.51;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/601490553;FBCR/Unknown;FBMF/Vivo;FBBD/Xiaomi;FBDV/Find X3 Pro;FBSV/8.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1698,width=1992};]
+Davik/2.1.0 (Linux; U; Android 13; Galaxy S21 Build/Build-721) [FBAN/MessengerLite;FBAV/306.0.0.6.52;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/205924992;FBCR/Unknown;FBMF/OnePlus;FBBD/Motorola;FBDV/Galaxy S21;FBSV/13;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2987,width=1369};]
+Davik/2.1.0 (Linux; U; Android 10; Realme GT Build/Build-909) [FBAN/MessengerLite;FBAV/319.0.0.1.91;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/682447957;FBCR/Unknown;FBMF/Realme;FBBD/Motorola;FBDV/Realme GT;FBSV/10;FBCA/arm64-v8a;FBDM/{density=2.25,height=1630,width=2526};]
+Davik/2.1.0 (Linux; U; Android 10; Essential Phone PH-1 Build/Build-891) [FBAN/MessengerLite;FBAV/322.0.0.6.121;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/437213026;FBCR/Unknown;FBMF/Sony;FBBD/Vivo;FBDV/Essential Phone PH-1;FBSV/10;FBCA/arm64-v8a;FBDM/{density=2.25,height=2358,width=2401};]
+Davik/2.1.0 (Linux; U; Android 7.0; Nokia 8.3 Build/Build-913) [FBAN/MessengerLite;FBAV/304.0.0.2.113;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/506909199;FBCR/Unknown;FBMF/OnePlus;FBBD/Motorola;FBDV/Nokia 8.3;FBSV/7.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1686,width=2023};]
+Davik/2.1.0 (Linux; U; Android 14; Moto G Power Build/Build-866) [FBAN/MessengerLite;FBAV/311.0.0.7.74;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/238778340;FBCR/Unknown;FBMF/Motorola;FBBD/Oppo;FBDV/Moto G Power;FBSV/14;FBCA/x86;FBDM/{density=2.25,height=1277,width=2868};]
+Davik/2.1.0 (Linux; U; Android 10; Realme GT Build/Build-630) [FBAN/MessengerLite;FBAV/323.0.0.1.92;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/381285641;FBCR/Unknown;FBMF/Vivo;FBBD/Huawei;FBDV/Realme GT;FBSV/10;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2358,width=2435};]
+Davik/2.1.0 (Linux; U; Android 11; P40 Pro Build/Build-201) [FBAN/MessengerLite;FBAV/302.0.0.7.118;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/860036250;FBCR/Unknown;FBMF/Motorola;FBBD/Motorola;FBDV/P40 Pro;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=2554,width=2255};]
+Davik/2.1.0 (Linux; U; Android 12; Galaxy S21 Build/Build-378) [FBAN/MessengerLite;FBAV/307.0.0.4.145;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/240193873;FBCR/Unknown;FBMF/Huawei;FBBD/Sony;FBDV/Galaxy S21;FBSV/12;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2232,width=1790};]
+Davik/2.1.0 (Linux; U; Android 14; OnePlus 9 Build/Build-490) [FBAN/MessengerLite;FBAV/325.0.0.6.61;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/725797761;FBCR/Unknown;FBMF/LG;FBBD/Huawei;FBDV/OnePlus 9;FBSV/14;FBCA/arm64-v8a;FBDM/{density=2.25,height=2394,width=1003};]
+Davik/2.1.0 (Linux; U; Android 8.0; X60 Pro Build/Build-982) [FBAN/MessengerLite;FBAV/318.0.0.3.40;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/136815288;FBCR/Unknown;FBMF/Asus;FBBD/Google;FBDV/X60 Pro;FBSV/8.0;FBCA/x86_64;FBDM/{density=2.25,height=2567,width=1312};]
+Davik/2.1.0 (Linux; U; Android 12; BlackBerry Key2 Build/Build-686) [FBAN/MessengerLite;FBAV/320.0.0.2.98;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/807095045;FBCR/Unknown;FBMF/Google;FBBD/Motorola;FBDV/BlackBerry Key2;FBSV/12;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2260,width=1853};]
+Davik/2.1.0 (Linux; U; Android 13; Nokia 8.3 Build/Build-732) [FBAN/MessengerLite;FBAV/316.0.0.4.143;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/260039941;FBCR/Unknown;FBMF/Sony;FBBD/Motorola;FBDV/Nokia 8.3;FBSV/13;FBCA/arm64-v8a;FBDM/{density=2.25,height=1955,width=2709};]
+Davik/2.1.0 (Linux; U; Android 11; Pixel 6 Build/Build-806) [FBAN/MessengerLite;FBAV/300.0.0.7.138;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/261997786;FBCR/Unknown;FBMF/Oppo;FBBD/Motorola;FBDV/Pixel 6;FBSV/11;FBCA/x86_64;FBDM/{density=2.25,height=2552,width=1195};]
+Davik/2.1.0 (Linux; U; Android 10; LG Wing Build/Build-890) [FBAN/MessengerLite;FBAV/320.0.0.6.101;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/132231001;FBCR/Unknown;FBMF/LG;FBBD/Xiaomi;FBDV/LG Wing;FBSV/10;FBCA/x86_64;FBDM/{density=2.25,height=1165,width=1061};]
+Davik/2.1.0 (Linux; U; Android 11; BlackBerry Key2 Build/Build-907) [FBAN/MessengerLite;FBAV/311.0.0.1.137;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/309440715;FBCR/Unknown;FBMF/OnePlus;FBBD/Motorola;FBDV/BlackBerry Key2;FBSV/11;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2193,width=1042};]
+Davik/2.1.0 (Linux; U; Android 13; OnePlus 9 Build/Build-114) [FBAN/MessengerLite;FBAV/302.0.0.3.47;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/375439770;FBCR/Unknown;FBMF/Motorola;FBBD/Realme;FBDV/OnePlus 9;FBSV/13;FBCA/x86_64;FBDM/{density=2.25,height=2322,width=2032};]
+Davik/2.1.0 (Linux; U; Android 8.0; Find X3 Pro Build/Build-927) [FBAN/MessengerLite;FBAV/318.0.0.8.59;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/151171783;FBCR/Unknown;FBMF/OnePlus;FBBD/Sony;FBDV/Find X3 Pro;FBSV/8.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1726,width=1607};]
+Davik/2.1.0 (Linux; U; Android 10; BlackBerry Key2 Build/Build-291) [FBAN/MessengerLite;FBAV/313.0.0.8.63;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/899539363;FBCR/Unknown;FBMF/Asus;FBBD/Sony;FBDV/BlackBerry Key2;FBSV/10;FBCA/arm64-v8a;FBDM/{density=2.25,height=2426,width=2092};]
+Davik/2.1.0 (Linux; U; Android 11; Redmi Note 10 Build/Build-930) [FBAN/MessengerLite;FBAV/306.0.0.5.134;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/538925156;FBCR/Unknown;FBMF/Google;FBBD/Huawei;FBDV/Redmi Note 10;FBSV/11;FBCA/x86_64;FBDM/{density=2.25,height=1462,width=1827};]
+Davik/2.1.0 (Linux; U; Android 13; Find X3 Pro Build/Build-163) [FBAN/MessengerLite;FBAV/317.0.0.5.54;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/301169382;FBCR/Unknown;FBMF/Samsung;FBBD/Huawei;FBDV/Find X3 Pro;FBSV/13;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1276,width=1349};]
+Davik/2.1.0 (Linux; U; Android 13; Galaxy S21 Build/Build-432) [FBAN/MessengerLite;FBAV/301.0.0.4.44;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/488813769;FBCR/Unknown;FBMF/Oppo;FBBD/Xiaomi;FBDV/Galaxy S21;FBSV/13;FBCA/x86;FBDM/{density=2.25,height=2807,width=2906};]
+Davik/2.1.0 (Linux; U; Android 8.0; Xperia 1 III Build/Build-272) [FBAN/MessengerLite;FBAV/306.0.0.1.45;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/799217144;FBCR/Unknown;FBMF/Oppo;FBBD/LG;FBDV/Xperia 1 III;FBSV/8.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1506,width=2518};]
+Davik/2.1.0 (Linux; U; Android 7.0; Realme GT Build/Build-888) [FBAN/MessengerLite;FBAV/304.0.0.8.65;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/832543604;FBCR/Unknown;FBMF/OnePlus;FBBD/Huawei;FBDV/Realme GT;FBSV/7.0;FBCA/x86;FBDM/{density=2.25,height=1564,width=2955};]
+Davik/2.1.0 (Linux; U; Android 9.0; Moto G Power Build/Build-536) [FBAN/MessengerLite;FBAV/313.0.0.6.125;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/664875176;FBCR/Unknown;FBMF/Sony;FBBD/Sony;FBDV/Moto G Power;FBSV/9.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1924,width=1228};]
+Davik/2.1.0 (Linux; U; Android 10; BlackBerry Key2 Build/Build-237) [FBAN/MessengerLite;FBAV/315.0.0.7.132;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/501052939;FBCR/Unknown;FBMF/Vivo;FBBD/LG;FBDV/BlackBerry Key2;FBSV/10;FBCA/x86_64;FBDM/{density=2.25,height=1392,width=1048};]
+Davik/2.1.0 (Linux; U; Android 11; Galaxy S21 Build/Build-233) [FBAN/MessengerLite;FBAV/301.0.0.7.141;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/375924468;FBCR/Unknown;FBMF/Realme;FBBD/Google;FBDV/Galaxy S21;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=1273,width=2727};]
+Davik/2.1.0 (Linux; U; Android 12; X60 Pro Build/Build-357) [FBAN/MessengerLite;FBAV/325.0.0.4.106;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/220780741;FBCR/Unknown;FBMF/Nokia;FBBD/Oppo;FBDV/X60 Pro;FBSV/12;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1764,width=1480};]
+Davik/2.1.0 (Linux; U; Android 12; P40 Pro Build/Build-750) [FBAN/MessengerLite;FBAV/309.0.0.1.40;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/277789134;FBCR/Unknown;FBMF/OnePlus;FBBD/LG;FBDV/P40 Pro;FBSV/12;FBCA/arm64-v8a;FBDM/{density=2.25,height=1246,width=1443};]
+Davik/2.1.0 (Linux; U; Android 10; LG Wing Build/Build-408) [FBAN/MessengerLite;FBAV/325.0.0.5.146;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/695675293;FBCR/Unknown;FBMF/Asus;FBBD/Realme;FBDV/LG Wing;FBSV/10;FBCA/x86_64;FBDM/{density=2.25,height=2066,width=2750};]
+Davik/2.1.0 (Linux; U; Android 11; Essential Phone PH-1 Build/Build-913) [FBAN/MessengerLite;FBAV/323.0.0.4.73;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/501978109;FBCR/Unknown;FBMF/OnePlus;FBBD/Motorola;FBDV/Essential Phone PH-1;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=2025,width=1952};]
+Davik/2.1.0 (Linux; U; Android 13; Find X3 Pro Build/Build-987) [FBAN/MessengerLite;FBAV/305.0.0.4.120;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/634759443;FBCR/Unknown;FBMF/Huawei;FBBD/Nokia;FBDV/Find X3 Pro;FBSV/13;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2734,width=1254};]
+Davik/2.1.0 (Linux; U; Android 9.0; Moto G Power Build/Build-715) [FBAN/MessengerLite;FBAV/325.0.0.6.40;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/591963600;FBCR/Unknown;FBMF/Vivo;FBBD/OnePlus;FBDV/Moto G Power;FBSV/9.0;FBCA/x86;FBDM/{density=2.25,height=2485,width=2994};]
+Davik/2.1.0 (Linux; U; Android 13; Redmi Note 10 Build/Build-925) [FBAN/MessengerLite;FBAV/320.0.0.2.48;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/878095357;FBCR/Unknown;FBMF/Huawei;FBBD/OnePlus;FBDV/Redmi Note 10;FBSV/13;FBCA/x86;FBDM/{density=2.25,height=1046,width=2269};]
+Davik/2.1.0 (Linux; U; Android 10; X60 Pro Build/Build-859) [FBAN/MessengerLite;FBAV/306.0.0.3.115;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/776127535;FBCR/Unknown;FBMF/Nokia;FBBD/Samsung;FBDV/X60 Pro;FBSV/10;FBCA/x86;FBDM/{density=2.25,height=1675,width=2171};]
+Davik/2.1.0 (Linux; U; Android 12; Find X3 Pro Build/Build-414) [FBAN/MessengerLite;FBAV/303.0.0.7.115;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/579034558;FBCR/Unknown;FBMF/Huawei;FBBD/Vivo;FBDV/Find X3 Pro;FBSV/12;FBCA/x86_64;FBDM/{density=2.25,height=2307,width=2333};]
+Davik/2.1.0 (Linux; U; Android 10; ROG Phone 5 Build/Build-768) [FBAN/MessengerLite;FBAV/314.0.0.6.122;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/892934520;FBCR/Unknown;FBMF/Huawei;FBBD/LG;FBDV/ROG Phone 5;FBSV/10;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1075,width=1450};]
+Davik/2.1.0 (Linux; U; Android 11; BlackBerry Key2 Build/Build-357) [FBAN/MessengerLite;FBAV/307.0.0.3.92;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/892204570;FBCR/Unknown;FBMF/Samsung;FBBD/Oppo;FBDV/BlackBerry Key2;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=2897,width=2753};]
+Davik/2.1.0 (Linux; U; Android 8.0; BlackBerry Key2 Build/Build-288) [FBAN/MessengerLite;FBAV/313.0.0.1.53;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/678416273;FBCR/Unknown;FBMF/Google;FBBD/Nokia;FBDV/BlackBerry Key2;FBSV/8.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2489,width=1984};]
+Davik/2.1.0 (Linux; U; Android 14; OnePlus 9 Build/Build-520) [FBAN/MessengerLite;FBAV/314.0.0.5.47;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/522418352;FBCR/Unknown;FBMF/Oppo;FBBD/LG;FBDV/OnePlus 9;FBSV/14;FBCA/x86_64;FBDM/{density=2.25,height=1995,width=2429};]
+Davik/2.1.0 (Linux; U; Android 11; Find X3 Pro Build/Build-106) [FBAN/MessengerLite;FBAV/321.0.0.8.47;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/304238242;FBCR/Unknown;FBMF/Oppo;FBBD/Vivo;FBDV/Find X3 Pro;FBSV/11;FBCA/x86_64;FBDM/{density=2.25,height=1144,width=2719};]
+Davik/2.1.0 (Linux; U; Android 13; OnePlus 9 Build/Build-238) [FBAN/MessengerLite;FBAV/311.0.0.8.131;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/636687473;FBCR/Unknown;FBMF/Asus;FBBD/Asus;FBDV/OnePlus 9;FBSV/13;FBCA/arm64-v8a;FBDM/{density=2.25,height=2571,width=1564};]
+Davik/2.1.0 (Linux; U; Android 13; Essential Phone PH-1 Build/Build-275) [FBAN/MessengerLite;FBAV/323.0.0.1.136;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/435495327;FBCR/Unknown;FBMF/Nokia;FBBD/Realme;FBDV/Essential Phone PH-1;FBSV/13;FBCA/arm64-v8a;FBDM/{density=2.25,height=2553,width=2418};]
+Davik/2.1.0 (Linux; U; Android 7.0; LG Wing Build/Build-566) [FBAN/MessengerLite;FBAV/308.0.0.2.107;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/472453865;FBCR/Unknown;FBMF/Oppo;FBBD/Realme;FBDV/LG Wing;FBSV/7.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2728,width=2028};]
+Davik/2.1.0 (Linux; U; Android 13; Pixel 6 Build/Build-955) [FBAN/MessengerLite;FBAV/322.0.0.4.59;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/862896067;FBCR/Unknown;FBMF/Huawei;FBBD/Oppo;FBDV/Pixel 6;FBSV/13;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1935,width=2562};]
+Davik/2.1.0 (Linux; U; Android 9.0; Xperia 1 III Build/Build-997) [FBAN/MessengerLite;FBAV/320.0.0.1.95;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/661646832;FBCR/Unknown;FBMF/Huawei;FBBD/Motorola;FBDV/Xperia 1 III;FBSV/9.0;FBCA/x86_64;FBDM/{density=2.25,height=1604,width=2069};]
+Davik/2.1.0 (Linux; U; Android 8.0; Find X3 Pro Build/Build-206) [FBAN/MessengerLite;FBAV/312.0.0.6.127;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/781824660;FBCR/Unknown;FBMF/Asus;FBBD/Motorola;FBDV/Find X3 Pro;FBSV/8.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1613,width=2855};]
+Davik/2.1.0 (Linux; U; Android 11; LG Wing Build/Build-550) [FBAN/MessengerLite;FBAV/309.0.0.6.41;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/911517008;FBCR/Unknown;FBMF/LG;FBBD/Asus;FBDV/LG Wing;FBSV/11;FBCA/x86_64;FBDM/{density=2.25,height=1339,width=1781};]
+Davik/2.1.0 (Linux; U; Android 11; LG Wing Build/Build-533) [FBAN/MessengerLite;FBAV/304.0.0.5.60;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/416880431;FBCR/Unknown;FBMF/Motorola;FBBD/Nokia;FBDV/LG Wing;FBSV/11;FBCA/x86_64;FBDM/{density=2.25,height=2818,width=2847};]
+Davik/2.1.0 (Linux; U; Android 12; Redmi Note 10 Build/Build-523) [FBAN/MessengerLite;FBAV/305.0.0.6.65;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/538576602;FBCR/Unknown;FBMF/Xiaomi;FBBD/Sony;FBDV/Redmi Note 10;FBSV/12;FBCA/arm64-v8a;FBDM/{density=2.25,height=1309,width=2033};]
+Davik/2.1.0 (Linux; U; Android 14; Find X3 Pro Build/Build-972) [FBAN/MessengerLite;FBAV/323.0.0.7.138;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/245837384;FBCR/Unknown;FBMF/Sony;FBBD/OnePlus;FBDV/Find X3 Pro;FBSV/14;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2291,width=2343};]
+Davik/2.1.0 (Linux; U; Android 14; Find X3 Pro Build/Build-794) [FBAN/MessengerLite;FBAV/324.0.0.1.123;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/398925878;FBCR/Unknown;FBMF/Xiaomi;FBBD/LG;FBDV/Find X3 Pro;FBSV/14;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1278,width=1172};]
+Davik/2.1.0 (Linux; U; Android 14; Find X3 Pro Build/Build-335) [FBAN/MessengerLite;FBAV/323.0.0.3.132;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/889875833;FBCR/Unknown;FBMF/Asus;FBBD/OnePlus;FBDV/Find X3 Pro;FBSV/14;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1363,width=1179};]
+Davik/2.1.0 (Linux; U; Android 13; P40 Pro Build/Build-587) [FBAN/MessengerLite;FBAV/306.0.0.8.104;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/266668335;FBCR/Unknown;FBMF/Realme;FBBD/OnePlus;FBDV/P40 Pro;FBSV/13;FBCA/arm64-v8a;FBDM/{density=2.25,height=2421,width=2838};]
+Davik/2.1.0 (Linux; U; Android 12; P40 Pro Build/Build-369) [FBAN/MessengerLite;FBAV/308.0.0.3.81;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/241028416;FBCR/Unknown;FBMF/Huawei;FBBD/Google;FBDV/P40 Pro;FBSV/12;FBCA/arm64-v8a;FBDM/{density=2.25,height=2078,width=2068};]
+Davik/2.1.0 (Linux; U; Android 12; P40 Pro Build/Build-138) [FBAN/MessengerLite;FBAV/318.0.0.8.147;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/913009242;FBCR/Unknown;FBMF/LG;FBBD/Xiaomi;FBDV/P40 Pro;FBSV/12;FBCA/arm64-v8a;FBDM/{density=2.25,height=1361,width=1310};]
+Davik/2.1.0 (Linux; U; Android 14; Pixel 6 Build/Build-376) [FBAN/MessengerLite;FBAV/303.0.0.5.115;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/478241181;FBCR/Unknown;FBMF/Sony;FBBD/Xiaomi;FBDV/Pixel 6;FBSV/14;FBCA/x86;FBDM/{density=2.25,height=1882,width=1782};]
+Davik/2.1.0 (Linux; U; Android 8.0; BlackBerry Key2 Build/Build-547) [FBAN/MessengerLite;FBAV/307.0.0.5.102;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/437466264;FBCR/Unknown;FBMF/LG;FBBD/Vivo;FBDV/BlackBerry Key2;FBSV/8.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2931,width=1685};]
+Davik/2.1.0 (Linux; U; Android 12; Galaxy S21 Build/Build-419) [FBAN/MessengerLite;FBAV/323.0.0.1.62;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/608701308;FBCR/Unknown;FBMF/Sony;FBBD/Motorola;FBDV/Galaxy S21;FBSV/12;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1833,width=1310};]
+Davik/2.1.0 (Linux; U; Android 8.0; Essential Phone PH-1 Build/Build-484) [FBAN/MessengerLite;FBAV/302.0.0.4.50;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/184702543;FBCR/Unknown;FBMF/OnePlus;FBBD/Xiaomi;FBDV/Essential Phone PH-1;FBSV/8.0;FBCA/x86_64;FBDM/{density=2.25,height=2946,width=2067};]
+Davik/2.1.0 (Linux; U; Android 11; Xperia 1 III Build/Build-870) [FBAN/MessengerLite;FBAV/305.0.0.5.80;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/505004332;FBCR/Unknown;FBMF/Vivo;FBBD/Oppo;FBDV/Xperia 1 III;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=2372,width=1047};]
+Davik/2.1.0 (Linux; U; Android 11; BlackBerry Key2 Build/Build-628) [FBAN/MessengerLite;FBAV/307.0.0.2.130;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/316519029;FBCR/Unknown;FBMF/Sony;FBBD/Huawei;FBDV/BlackBerry Key2;FBSV/11;FBCA/x86;FBDM/{density=2.25,height=2633,width=2597};]
+Davik/2.1.0 (Linux; U; Android 9.0; Galaxy S21 Build/Build-875) [FBAN/MessengerLite;FBAV/303.0.0.5.55;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/539982644;FBCR/Unknown;FBMF/Motorola;FBBD/Google;FBDV/Galaxy S21;FBSV/9.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2951,width=1055};]
+Davik/2.1.0 (Linux; U; Android 9.0; Nokia 8.3 Build/Build-627) [FBAN/MessengerLite;FBAV/319.0.0.7.137;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/642878642;FBCR/Unknown;FBMF/Oppo;FBBD/Nokia;FBDV/Nokia 8.3;FBSV/9.0;FBCA/x86;FBDM/{density=2.25,height=2596,width=2611};]
+Davik/2.1.0 (Linux; U; Android 9.0; Moto G Power Build/Build-641) [FBAN/MessengerLite;FBAV/305.0.0.7.149;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/988431261;FBCR/Unknown;FBMF/Motorola;FBBD/Vivo;FBDV/Moto G Power;FBSV/9.0;FBCA/x86;FBDM/{density=2.25,height=2928,width=2646};]
+Davik/2.1.0 (Linux; U; Android 14; Moto G Power Build/Build-495) [FBAN/MessengerLite;FBAV/309.0.0.1.133;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/733874542;FBCR/Unknown;FBMF/Samsung;FBBD/LG;FBDV/Moto G Power;FBSV/14;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2479,width=1444};]
+Davik/2.1.0 (Linux; U; Android 10; Moto G Power Build/Build-358) [FBAN/MessengerLite;FBAV/320.0.0.1.81;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/994725084;FBCR/Unknown;FBMF/Motorola;FBBD/Samsung;FBDV/Moto G Power;FBSV/10;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2893,width=1225};]
+Davik/2.1.0 (Linux; U; Android 12; LG Wing Build/Build-339) [FBAN/MessengerLite;FBAV/303.0.0.1.118;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/168129757;FBCR/Unknown;FBMF/Asus;FBBD/Nokia;FBDV/LG Wing;FBSV/12;FBCA/arm64-v8a;FBDM/{density=2.25,height=1558,width=1783};]
+Davik/2.1.0 (Linux; U; Android 9.0; LG Wing Build/Build-652) [FBAN/MessengerLite;FBAV/323.0.0.1.87;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/901976197;FBCR/Unknown;FBMF/Sony;FBBD/Vivo;FBDV/LG Wing;FBSV/9.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2771,width=1127};]
+Davik/2.1.0 (Linux; U; Android 14; Pixel 6 Build/Build-261) [FBAN/MessengerLite;FBAV/322.0.0.3.84;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/595933859;FBCR/Unknown;FBMF/Samsung;FBBD/Sony;FBDV/Pixel 6;FBSV/14;FBCA/x86_64;FBDM/{density=2.25,height=1636,width=1511};]
+Davik/2.1.0 (Linux; U; Android 12; Galaxy S21 Build/Build-805) [FBAN/MessengerLite;FBAV/317.0.0.4.80;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/765842106;FBCR/Unknown;FBMF/Oppo;FBBD/Sony;FBDV/Galaxy S21;FBSV/12;FBCA/x86;FBDM/{density=2.25,height=1370,width=1294};]
+Davik/2.1.0 (Linux; U; Android 14; Xperia 1 III Build/Build-903) [FBAN/MessengerLite;FBAV/320.0.0.6.71;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/674748206;FBCR/Unknown;FBMF/Samsung;FBBD/Nokia;FBDV/Xperia 1 III;FBSV/14;FBCA/arm64-v8a;FBDM/{density=2.25,height=1275,width=2663};]
+Davik/2.1.0 (Linux; U; Android 8.0; OnePlus 9 Build/Build-490) [FBAN/MessengerLite;FBAV/319.0.0.3.123;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/911157527;FBCR/Unknown;FBMF/Samsung;FBBD/Xiaomi;FBDV/OnePlus 9;FBSV/8.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1038,width=2364};]
+Davik/2.1.0 (Linux; U; Android 12; Nokia 8.3 Build/Build-780) [FBAN/MessengerLite;FBAV/321.0.0.4.76;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/695574808;FBCR/Unknown;FBMF/Motorola;FBBD/Samsung;FBDV/Nokia 8.3;FBSV/12;FBCA/x86_64;FBDM/{density=2.25,height=1405,width=2590};]
+Davik/2.1.0 (Linux; U; Android 14; OnePlus 9 Build/Build-537) [FBAN/MessengerLite;FBAV/325.0.0.7.142;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/353502977;FBCR/Unknown;FBMF/Vivo;FBBD/Oppo;FBDV/OnePlus 9;FBSV/14;FBCA/x86;FBDM/{density=2.25,height=2511,width=2532};]
+Davik/2.1.0 (Linux; U; Android 11; Galaxy S21 Build/Build-233) [FBAN/MessengerLite;FBAV/308.0.0.5.59;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/644372253;FBCR/Unknown;FBMF/OnePlus;FBBD/OnePlus;FBDV/Galaxy S21;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=1750,width=1301};]
+Davik/2.1.0 (Linux; U; Android 7.0; Find X3 Pro Build/Build-600) [FBAN/MessengerLite;FBAV/302.0.0.3.120;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/595318119;FBCR/Unknown;FBMF/Realme;FBBD/Google;FBDV/Find X3 Pro;FBSV/7.0;FBCA/x86;FBDM/{density=2.25,height=2435,width=2580};]
+Davik/2.1.0 (Linux; U; Android 11; Find X3 Pro Build/Build-842) [FBAN/MessengerLite;FBAV/318.0.0.3.111;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/519216274;FBCR/Unknown;FBMF/Motorola;FBBD/Sony;FBDV/Find X3 Pro;FBSV/11;FBCA/x86_64;FBDM/{density=2.25,height=1656,width=1375};]
+Davik/2.1.0 (Linux; U; Android 12; Moto G Power Build/Build-216) [FBAN/MessengerLite;FBAV/313.0.0.1.86;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/830554835;FBCR/Unknown;FBMF/Samsung;FBBD/Nokia;FBDV/Moto G Power;FBSV/12;FBCA/x86;FBDM/{density=2.25,height=1496,width=2589};]
+Davik/2.1.0 (Linux; U; Android 11; LG Wing Build/Build-229) [FBAN/MessengerLite;FBAV/312.0.0.6.127;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/813835272;FBCR/Unknown;FBMF/Realme;FBBD/Huawei;FBDV/LG Wing;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=2067,width=2538};]
+Davik/2.1.0 (Linux; U; Android 13; Xperia 1 III Build/Build-607) [FBAN/MessengerLite;FBAV/320.0.0.8.41;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/633303570;FBCR/Unknown;FBMF/Samsung;FBBD/OnePlus;FBDV/Xperia 1 III;FBSV/13;FBCA/x86_64;FBDM/{density=2.25,height=1917,width=1061};]
+Davik/2.1.0 (Linux; U; Android 12; P40 Pro Build/Build-707) [FBAN/MessengerLite;FBAV/312.0.0.5.73;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/381152874;FBCR/Unknown;FBMF/OnePlus;FBBD/OnePlus;FBDV/P40 Pro;FBSV/12;FBCA/x86_64;FBDM/{density=2.25,height=1213,width=2805};]
+Davik/2.1.0 (Linux; U; Android 11; X60 Pro Build/Build-994) [FBAN/MessengerLite;FBAV/313.0.0.8.135;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/153567351;FBCR/Unknown;FBMF/Motorola;FBBD/Huawei;FBDV/X60 Pro;FBSV/11;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2257,width=2765};]
+Davik/2.1.0 (Linux; U; Android 8.0; Essential Phone PH-1 Build/Build-686) [FBAN/MessengerLite;FBAV/316.0.0.6.99;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/580051350;FBCR/Unknown;FBMF/Motorola;FBBD/Realme;FBDV/Essential Phone PH-1;FBSV/8.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2731,width=1724};]
+Davik/2.1.0 (Linux; U; Android 9.0; Pixel 6 Build/Build-500) [FBAN/MessengerLite;FBAV/322.0.0.2.81;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/456183466;FBCR/Unknown;FBMF/Motorola;FBBD/Sony;FBDV/Pixel 6;FBSV/9.0;FBCA/x86;FBDM/{density=2.25,height=2234,width=1213};]
+Davik/2.1.0 (Linux; U; Android 11; Essential Phone PH-1 Build/Build-101) [FBAN/MessengerLite;FBAV/306.0.0.6.64;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/736759911;FBCR/Unknown;FBMF/Motorola;FBBD/Vivo;FBDV/Essential Phone PH-1;FBSV/11;FBCA/x86;FBDM/{density=2.25,height=1989,width=1536};]
+Davik/2.1.0 (Linux; U; Android 10; Moto G Power Build/Build-504) [FBAN/MessengerLite;FBAV/305.0.0.5.96;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/280269420;FBCR/Unknown;FBMF/Xiaomi;FBBD/Nokia;FBDV/Moto G Power;FBSV/10;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1498,width=2483};]
+Davik/2.1.0 (Linux; U; Android 13; P40 Pro Build/Build-231) [FBAN/MessengerLite;FBAV/317.0.0.1.59;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/985209174;FBCR/Unknown;FBMF/LG;FBBD/Sony;FBDV/P40 Pro;FBSV/13;FBCA/arm64-v8a;FBDM/{density=2.25,height=2301,width=1183};]
+Davik/2.1.0 (Linux; U; Android 11; Redmi Note 10 Build/Build-349) [FBAN/MessengerLite;FBAV/318.0.0.3.87;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/578363354;FBCR/Unknown;FBMF/OnePlus;FBBD/Sony;FBDV/Redmi Note 10;FBSV/11;FBCA/x86_64;FBDM/{density=2.25,height=2014,width=2964};]
+Davik/2.1.0 (Linux; U; Android 7.0; OnePlus 9 Build/Build-268) [FBAN/MessengerLite;FBAV/304.0.0.5.86;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/909137279;FBCR/Unknown;FBMF/Google;FBBD/Samsung;FBDV/OnePlus 9;FBSV/7.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2257,width=2860};]
+Davik/2.1.0 (Linux; U; Android 7.0; Find X3 Pro Build/Build-552) [FBAN/MessengerLite;FBAV/308.0.0.8.97;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/694944104;FBCR/Unknown;FBMF/Nokia;FBBD/Realme;FBDV/Find X3 Pro;FBSV/7.0;FBCA/x86_64;FBDM/{density=2.25,height=1699,width=1194};]
+Davik/2.1.0 (Linux; U; Android 12; Nokia 8.3 Build/Build-599) [FBAN/MessengerLite;FBAV/300.0.0.3.139;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/362553580;FBCR/Unknown;FBMF/Nokia;FBBD/Google;FBDV/Nokia 8.3;FBSV/12;FBCA/x86;FBDM/{density=2.25,height=2850,width=1403};]
+Davik/2.1.0 (Linux; U; Android 14; Realme GT Build/Build-168) [FBAN/MessengerLite;FBAV/310.0.0.2.129;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/457913567;FBCR/Unknown;FBMF/Nokia;FBBD/Asus;FBDV/Realme GT;FBSV/14;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1187,width=1988};]
+Davik/2.1.0 (Linux; U; Android 14; Galaxy S21 Build/Build-441) [FBAN/MessengerLite;FBAV/300.0.0.4.115;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/769627110;FBCR/Unknown;FBMF/Oppo;FBBD/Motorola;FBDV/Galaxy S21;FBSV/14;FBCA/x86_64;FBDM/{density=2.25,height=2527,width=2719};]
+Davik/2.1.0 (Linux; U; Android 10; P40 Pro Build/Build-804) [FBAN/MessengerLite;FBAV/301.0.0.6.127;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/877534545;FBCR/Unknown;FBMF/Huawei;FBBD/OnePlus;FBDV/P40 Pro;FBSV/10;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2182,width=2458};]
+Davik/2.1.0 (Linux; U; Android 13; BlackBerry Key2 Build/Build-639) [FBAN/MessengerLite;FBAV/305.0.0.4.94;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/512846936;FBCR/Unknown;FBMF/Realme;FBBD/Asus;FBDV/BlackBerry Key2;FBSV/13;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2611,width=2302};]
+Davik/2.1.0 (Linux; U; Android 8.0; BlackBerry Key2 Build/Build-160) [FBAN/MessengerLite;FBAV/325.0.0.8.103;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/302821894;FBCR/Unknown;FBMF/Realme;FBBD/OnePlus;FBDV/BlackBerry Key2;FBSV/8.0;FBCA/x86;FBDM/{density=2.25,height=2211,width=2934};]
+Davik/2.1.0 (Linux; U; Android 7.0; Redmi Note 10 Build/Build-955) [FBAN/MessengerLite;FBAV/309.0.0.1.93;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/939649493;FBCR/Unknown;FBMF/Samsung;FBBD/Motorola;FBDV/Redmi Note 10;FBSV/7.0;FBCA/x86_64;FBDM/{density=2.25,height=2153,width=2224};]
+Davik/2.1.0 (Linux; U; Android 12; Pixel 6 Build/Build-760) [FBAN/MessengerLite;FBAV/323.0.0.4.66;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/654271496;FBCR/Unknown;FBMF/Vivo;FBBD/Samsung;FBDV/Pixel 6;FBSV/12;FBCA/arm64-v8a;FBDM/{density=2.25,height=1207,width=1414};]
+Davik/2.1.0 (Linux; U; Android 7.0; Moto G Power Build/Build-120) [FBAN/MessengerLite;FBAV/320.0.0.3.146;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/733558833;FBCR/Unknown;FBMF/Vivo;FBBD/Nokia;FBDV/Moto G Power;FBSV/7.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1505,width=1249};]
+Davik/2.1.0 (Linux; U; Android 14; Find X3 Pro Build/Build-569) [FBAN/MessengerLite;FBAV/303.0.0.4.77;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/812473641;FBCR/Unknown;FBMF/Huawei;FBBD/Oppo;FBDV/Find X3 Pro;FBSV/14;FBCA/x86;FBDM/{density=2.25,height=2830,width=1544};]
+Davik/2.1.0 (Linux; U; Android 7.0; Galaxy S21 Build/Build-281) [FBAN/MessengerLite;FBAV/317.0.0.3.55;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/319311638;FBCR/Unknown;FBMF/Realme;FBBD/Samsung;FBDV/Galaxy S21;FBSV/7.0;FBCA/x86;FBDM/{density=2.25,height=2652,width=2545};]
+Davik/2.1.0 (Linux; U; Android 9.0; Moto G Power Build/Build-521) [FBAN/MessengerLite;FBAV/308.0.0.5.43;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/512293970;FBCR/Unknown;FBMF/Vivo;FBBD/Realme;FBDV/Moto G Power;FBSV/9.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1358,width=1177};]
+Davik/2.1.0 (Linux; U; Android 8.0; Moto G Power Build/Build-274) [FBAN/MessengerLite;FBAV/322.0.0.6.56;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/407076795;FBCR/Unknown;FBMF/Motorola;FBBD/Samsung;FBDV/Moto G Power;FBSV/8.0;FBCA/x86;FBDM/{density=2.25,height=2385,width=1324};]
+Davik/2.1.0 (Linux; U; Android 14; Pixel 6 Build/Build-424) [FBAN/MessengerLite;FBAV/311.0.0.7.143;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/132147358;FBCR/Unknown;FBMF/Huawei;FBBD/Samsung;FBDV/Pixel 6;FBSV/14;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2766,width=1608};]
+Davik/2.1.0 (Linux; U; Android 14; Nokia 8.3 Build/Build-193) [FBAN/MessengerLite;FBAV/310.0.0.5.120;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/882989625;FBCR/Unknown;FBMF/Sony;FBBD/LG;FBDV/Nokia 8.3;FBSV/14;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1023,width=2841};]
+Davik/2.1.0 (Linux; U; Android 7.0; Redmi Note 10 Build/Build-278) [FBAN/MessengerLite;FBAV/310.0.0.7.82;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/179371725;FBCR/Unknown;FBMF/LG;FBBD/Oppo;FBDV/Redmi Note 10;FBSV/7.0;FBCA/x86;FBDM/{density=2.25,height=2357,width=1507};]
+Davik/2.1.0 (Linux; U; Android 13; X60 Pro Build/Build-327) [FBAN/MessengerLite;FBAV/304.0.0.6.80;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/554461776;FBCR/Unknown;FBMF/Nokia;FBBD/Sony;FBDV/X60 Pro;FBSV/13;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1601,width=1179};]
+Davik/2.1.0 (Linux; U; Android 13; Xperia 1 III Build/Build-265) [FBAN/MessengerLite;FBAV/303.0.0.5.140;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/468783219;FBCR/Unknown;FBMF/Vivo;FBBD/LG;FBDV/Xperia 1 III;FBSV/13;FBCA/x86_64;FBDM/{density=2.25,height=2629,width=2233};]
+Davik/2.1.0 (Linux; U; Android 8.0; OnePlus 9 Build/Build-103) [FBAN/MessengerLite;FBAV/306.0.0.6.53;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/826089410;FBCR/Unknown;FBMF/OnePlus;FBBD/Huawei;FBDV/OnePlus 9;FBSV/8.0;FBCA/x86_64;FBDM/{density=2.25,height=1854,width=2418};]
+Davik/2.1.0 (Linux; U; Android 14; Xperia 1 III Build/Build-665) [FBAN/MessengerLite;FBAV/318.0.0.4.98;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/546229271;FBCR/Unknown;FBMF/Realme;FBBD/Google;FBDV/Xperia 1 III;FBSV/14;FBCA/x86;FBDM/{density=2.25,height=2807,width=1325};]
+Davik/2.1.0 (Linux; U; Android 9.0; Realme GT Build/Build-266) [FBAN/MessengerLite;FBAV/316.0.0.2.126;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/209240173;FBCR/Unknown;FBMF/Xiaomi;FBBD/Nokia;FBDV/Realme GT;FBSV/9.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=3000,width=2602};]
+Davik/2.1.0 (Linux; U; Android 12; ROG Phone 5 Build/Build-616) [FBAN/MessengerLite;FBAV/315.0.0.6.112;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/835131004;FBCR/Unknown;FBMF/Oppo;FBBD/Asus;FBDV/ROG Phone 5;FBSV/12;FBCA/x86_64;FBDM/{density=2.25,height=1688,width=1487};]
+Davik/2.1.0 (Linux; U; Android 8.0; Galaxy S21 Build/Build-822) [FBAN/MessengerLite;FBAV/310.0.0.1.47;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/149095384;FBCR/Unknown;FBMF/Asus;FBBD/Nokia;FBDV/Galaxy S21;FBSV/8.0;FBCA/x86;FBDM/{density=2.25,height=2044,width=2714};]
+Davik/2.1.0 (Linux; U; Android 14; Nokia 8.3 Build/Build-316) [FBAN/MessengerLite;FBAV/314.0.0.3.146;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/659792876;FBCR/Unknown;FBMF/Vivo;FBBD/OnePlus;FBDV/Nokia 8.3;FBSV/14;FBCA/x86_64;FBDM/{density=2.25,height=2697,width=2253};]
+Davik/2.1.0 (Linux; U; Android 13; Essential Phone PH-1 Build/Build-911) [FBAN/MessengerLite;FBAV/305.0.0.8.150;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/691740763;FBCR/Unknown;FBMF/OnePlus;FBBD/Google;FBDV/Essential Phone PH-1;FBSV/13;FBCA/x86_64;FBDM/{density=2.25,height=2032,width=2439};]
+Davik/2.1.0 (Linux; U; Android 9.0; Redmi Note 10 Build/Build-665) [FBAN/MessengerLite;FBAV/321.0.0.3.119;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/518597283;FBCR/Unknown;FBMF/Oppo;FBBD/Motorola;FBDV/Redmi Note 10;FBSV/9.0;FBCA/x86_64;FBDM/{density=2.25,height=1397,width=2289};]
+Davik/2.1.0 (Linux; U; Android 9.0; Find X3 Pro Build/Build-727) [FBAN/MessengerLite;FBAV/319.0.0.8.47;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/791914652;FBCR/Unknown;FBMF/Nokia;FBBD/Sony;FBDV/Find X3 Pro;FBSV/9.0;FBCA/x86_64;FBDM/{density=2.25,height=1416,width=1106};]
+Davik/2.1.0 (Linux; U; Android 9.0; Redmi Note 10 Build/Build-296) [FBAN/MessengerLite;FBAV/306.0.0.7.141;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/121049991;FBCR/Unknown;FBMF/Oppo;FBBD/Sony;FBDV/Redmi Note 10;FBSV/9.0;FBCA/x86_64;FBDM/{density=2.25,height=2860,width=2069};]
+Davik/2.1.0 (Linux; U; Android 8.0; LG Wing Build/Build-249) [FBAN/MessengerLite;FBAV/309.0.0.8.47;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/840265125;FBCR/Unknown;FBMF/Oppo;FBBD/Sony;FBDV/LG Wing;FBSV/8.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1667,width=2492};]
+Davik/2.1.0 (Linux; U; Android 8.0; Nokia 8.3 Build/Build-571) [FBAN/MessengerLite;FBAV/320.0.0.8.143;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/422855277;FBCR/Unknown;FBMF/Huawei;FBBD/LG;FBDV/Nokia 8.3;FBSV/8.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2279,width=2415};]
+Davik/2.1.0 (Linux; U; Android 8.0; Nokia 8.3 Build/Build-462) [FBAN/MessengerLite;FBAV/307.0.0.2.130;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/670356033;FBCR/Unknown;FBMF/Sony;FBBD/Oppo;FBDV/Nokia 8.3;FBSV/8.0;FBCA/x86;FBDM/{density=2.25,height=1478,width=2265};]
+Davik/2.1.0 (Linux; U; Android 7.0; P40 Pro Build/Build-632) [FBAN/MessengerLite;FBAV/322.0.0.3.82;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/989582364;FBCR/Unknown;FBMF/Sony;FBBD/LG;FBDV/P40 Pro;FBSV/7.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1969,width=2967};]
+Davik/2.1.0 (Linux; U; Android 14; Moto G Power Build/Build-143) [FBAN/MessengerLite;FBAV/307.0.0.4.74;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/795335758;FBCR/Unknown;FBMF/Vivo;FBBD/LG;FBDV/Moto G Power;FBSV/14;FBCA/x86;FBDM/{density=2.25,height=2070,width=2336};]
+Davik/2.1.0 (Linux; U; Android 12; P40 Pro Build/Build-758) [FBAN/MessengerLite;FBAV/307.0.0.2.111;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/876784544;FBCR/Unknown;FBMF/Oppo;FBBD/OnePlus;FBDV/P40 Pro;FBSV/12;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2139,width=1946};]
+Davik/2.1.0 (Linux; U; Android 7.0; OnePlus 9 Build/Build-866) [FBAN/MessengerLite;FBAV/310.0.0.8.140;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/595674355;FBCR/Unknown;FBMF/Xiaomi;FBBD/OnePlus;FBDV/OnePlus 9;FBSV/7.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2796,width=1311};]
+Davik/2.1.0 (Linux; U; Android 7.0; X60 Pro Build/Build-648) [FBAN/MessengerLite;FBAV/316.0.0.7.53;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/851990665;FBCR/Unknown;FBMF/Xiaomi;FBBD/Huawei;FBDV/X60 Pro;FBSV/7.0;FBCA/x86_64;FBDM/{density=2.25,height=1932,width=2913};]
+Davik/2.1.0 (Linux; U; Android 14; Nokia 8.3 Build/Build-891) [FBAN/MessengerLite;FBAV/316.0.0.7.143;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/881100869;FBCR/Unknown;FBMF/Nokia;FBBD/Samsung;FBDV/Nokia 8.3;FBSV/14;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2330,width=2757};]
+Davik/2.1.0 (Linux; U; Android 12; OnePlus 9 Build/Build-117) [FBAN/MessengerLite;FBAV/321.0.0.6.132;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/211341268;FBCR/Unknown;FBMF/Google;FBBD/LG;FBDV/OnePlus 9;FBSV/12;FBCA/arm64-v8a;FBDM/{density=2.25,height=1895,width=2651};]
+Davik/2.1.0 (Linux; U; Android 11; Redmi Note 10 Build/Build-587) [FBAN/MessengerLite;FBAV/324.0.0.2.115;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/799740978;FBCR/Unknown;FBMF/Asus;FBBD/LG;FBDV/Redmi Note 10;FBSV/11;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2773,width=2807};]
+Davik/2.1.0 (Linux; U; Android 13; Nokia 8.3 Build/Build-139) [FBAN/MessengerLite;FBAV/318.0.0.2.90;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/951812129;FBCR/Unknown;FBMF/Samsung;FBBD/Vivo;FBDV/Nokia 8.3;FBSV/13;FBCA/x86;FBDM/{density=2.25,height=2445,width=1335};]
+Davik/2.1.0 (Linux; U; Android 14; Redmi Note 10 Build/Build-320) [FBAN/MessengerLite;FBAV/325.0.0.8.75;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/752203778;FBCR/Unknown;FBMF/Google;FBBD/Motorola;FBDV/Redmi Note 10;FBSV/14;FBCA/arm64-v8a;FBDM/{density=2.25,height=2635,width=1553};]
+Davik/2.1.0 (Linux; U; Android 8.0; Realme GT Build/Build-237) [FBAN/MessengerLite;FBAV/318.0.0.8.147;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/322515670;FBCR/Unknown;FBMF/OnePlus;FBBD/Vivo;FBDV/Realme GT;FBSV/8.0;FBCA/x86;FBDM/{density=2.25,height=1418,width=2996};]
+Davik/2.1.0 (Linux; U; Android 8.0; P40 Pro Build/Build-134) [FBAN/MessengerLite;FBAV/311.0.0.1.57;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/766644224;FBCR/Unknown;FBMF/Realme;FBBD/OnePlus;FBDV/P40 Pro;FBSV/8.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2657,width=2852};]
+Davik/2.1.0 (Linux; U; Android 13; Nokia 8.3 Build/Build-540) [FBAN/MessengerLite;FBAV/302.0.0.8.129;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/949354914;FBCR/Unknown;FBMF/LG;FBBD/Realme;FBDV/Nokia 8.3;FBSV/13;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2237,width=1611};]
+Davik/2.1.0 (Linux; U; Android 9.0; Pixel 6 Build/Build-209) [FBAN/MessengerLite;FBAV/321.0.0.2.128;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/966372231;FBCR/Unknown;FBMF/Samsung;FBBD/Xiaomi;FBDV/Pixel 6;FBSV/9.0;FBCA/x86;FBDM/{density=2.25,height=2871,width=1211};]
+Davik/2.1.0 (Linux; U; Android 9.0; Essential Phone PH-1 Build/Build-794) [FBAN/MessengerLite;FBAV/305.0.0.5.150;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/821858325;FBCR/Unknown;FBMF/OnePlus;FBBD/Google;FBDV/Essential Phone PH-1;FBSV/9.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2402,width=1782};]
+Davik/2.1.0 (Linux; U; Android 14; Xperia 1 III Build/Build-957) [FBAN/MessengerLite;FBAV/306.0.0.1.73;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/248163592;FBCR/Unknown;FBMF/Asus;FBBD/LG;FBDV/Xperia 1 III;FBSV/14;FBCA/x86_64;FBDM/{density=2.25,height=2581,width=2397};]
+Davik/2.1.0 (Linux; U; Android 11; OnePlus 9 Build/Build-706) [FBAN/MessengerLite;FBAV/316.0.0.3.94;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/407213923;FBCR/Unknown;FBMF/Motorola;FBBD/LG;FBDV/OnePlus 9;FBSV/11;FBCA/x86;FBDM/{density=2.25,height=2648,width=1872};]
+Davik/2.1.0 (Linux; U; Android 8.0; Pixel 6 Build/Build-789) [FBAN/MessengerLite;FBAV/325.0.0.4.141;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/490924923;FBCR/Unknown;FBMF/Asus;FBBD/Sony;FBDV/Pixel 6;FBSV/8.0;FBCA/x86_64;FBDM/{density=2.25,height=2407,width=1504};]
+Davik/2.1.0 (Linux; U; Android 14; BlackBerry Key2 Build/Build-507) [FBAN/MessengerLite;FBAV/302.0.0.5.132;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/830836351;FBCR/Unknown;FBMF/OnePlus;FBBD/Motorola;FBDV/BlackBerry Key2;FBSV/14;FBCA/x86_64;FBDM/{density=2.25,height=2786,width=1247};]
+Davik/2.1.0 (Linux; U; Android 13; BlackBerry Key2 Build/Build-278) [FBAN/MessengerLite;FBAV/318.0.0.6.141;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/138465383;FBCR/Unknown;FBMF/Sony;FBBD/Huawei;FBDV/BlackBerry Key2;FBSV/13;FBCA/x86;FBDM/{density=2.25,height=2478,width=2579};]
+Davik/2.1.0 (Linux; U; Android 7.0; Realme GT Build/Build-372) [FBAN/MessengerLite;FBAV/312.0.0.7.75;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/986717504;FBCR/Unknown;FBMF/Asus;FBBD/Vivo;FBDV/Realme GT;FBSV/7.0;FBCA/x86;FBDM/{density=2.25,height=1551,width=2630};]
+Davik/2.1.0 (Linux; U; Android 10; LG Wing Build/Build-587) [FBAN/MessengerLite;FBAV/313.0.0.5.66;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/942956870;FBCR/Unknown;FBMF/Samsung;FBBD/LG;FBDV/LG Wing;FBSV/10;FBCA/x86;FBDM/{density=2.25,height=1885,width=2387};]
+Davik/2.1.0 (Linux; U; Android 13; Redmi Note 10 Build/Build-883) [FBAN/MessengerLite;FBAV/322.0.0.2.48;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/667706265;FBCR/Unknown;FBMF/Google;FBBD/Asus;FBDV/Redmi Note 10;FBSV/13;FBCA/arm64-v8a;FBDM/{density=2.25,height=1760,width=1978};]
+Davik/2.1.0 (Linux; U; Android 11; BlackBerry Key2 Build/Build-333) [FBAN/MessengerLite;FBAV/313.0.0.6.100;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/198089000;FBCR/Unknown;FBMF/Realme;FBBD/Realme;FBDV/BlackBerry Key2;FBSV/11;FBCA/arm64-v8a;FBDM/{density=2.25,height=1044,width=1005};]
+Davik/2.1.0 (Linux; U; Android 8.0; Galaxy S21 Build/Build-901) [FBAN/MessengerLite;FBAV/301.0.0.6.99;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/522441871;FBCR/Unknown;FBMF/Google;FBBD/Samsung;FBDV/Galaxy S21;FBSV/8.0;FBCA/x86_64;FBDM/{density=2.25,height=2080,width=2448};]
+Davik/2.1.0 (Linux; U; Android 9.0; ROG Phone 5 Build/Build-184) [FBAN/MessengerLite;FBAV/312.0.0.8.143;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/710312046;FBCR/Unknown;FBMF/OnePlus;FBBD/LG;FBDV/ROG Phone 5;FBSV/9.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=2384,width=1298};]
+Davik/2.1.0 (Linux; U; Android 9.0; Moto G Power Build/Build-112) [FBAN/MessengerLite;FBAV/325.0.0.6.96;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/248646428;FBCR/Unknown;FBMF/Motorola;FBBD/Motorola;FBDV/Moto G Power;FBSV/9.0;FBCA/arm64-v8a;FBDM/{density=2.25,height=1581,width=2509};]
+Davik/2.1.0 (Linux; U; Android 8.0; P40 Pro Build/Build-607) [FBAN/MessengerLite;FBAV/303.0.0.3.69;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/814835550;FBCR/Unknown;FBMF/Realme;FBBD/OnePlus;FBDV/P40 Pro;FBSV/8.0;FBCA/x86;FBDM/{density=2.25,height=1611,width=2989};]
+Davik/2.1.0 (Linux; U; Android 12; Essential Phone PH-1 Build/Build-733) [FBAN/MessengerLite;FBAV/325.0.0.4.135;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/348763609;FBCR/Unknown;FBMF/Google;FBBD/Realme;FBDV/Essential Phone PH-1;FBSV/12;FBCA/x86;FBDM/{density=2.25,height=1940,width=2224};]
+Davik/2.1.0 (Linux; U; Android 12; Galaxy S21 Build/Build-901) [FBAN/MessengerLite;FBAV/304.0.0.4.102;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/181347660;FBCR/Unknown;FBMF/Google;FBBD/Oppo;FBDV/Galaxy S21;FBSV/12;FBCA/armeabi-v7a;FBDM/{density=2.25,height=2958,width=1423};]
+Davik/2.1.0 (Linux; U; Android 8.0; Redmi Note 10 Build/Build-604) [FBAN/MessengerLite;FBAV/303.0.0.1.74;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/945861964;FBCR/Unknown;FBMF/OnePlus;FBBD/LG;FBDV/Redmi Note 10;FBSV/8.0;FBCA/armeabi-v7a;FBDM/{density=2.25,height=1062,width=1002};]
+
+Mozilla/5.0 (Linux; Android 11; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4879.111 Mobile Safari/537.36                            Mozilla/5.0 (Linux; Android 13; LG Wing) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4828.183 Mobile Safari/537.36                            Mozilla/5.0 (Linux; Android 10; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5972.139 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4683.140 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4905.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; LG V60 ThinQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5439.81 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5873.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5261.72 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5468.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4423.91 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4979.140 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4766.168 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4380.165 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5868.112 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Moto One 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4938.150 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; BlackBerry Key2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5144.98 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5947.165 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4642.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5732.150 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5141.139 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5733.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5585.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5805.94 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5399.83 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4866.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; BlackBerry Key2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5161.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Essential Phone PH-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4730.91 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5322.197 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4303.118 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4294.179 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Y20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5452.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5447.158 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5780.154 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4594.81 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4628.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; LG Wing) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5115.117 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5067.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4409.63 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5775.132 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Mate 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4597.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5765.158 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5066.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Y20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4221.195 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4515.131 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4891.88 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4547.183 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mate 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4523.132 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5089.122 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Essential Phone PH-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4292.139 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4228.92 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4733.168 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy A32) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5863.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5812.130 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; OnePlus 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5865.154 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5412.72 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5867.176 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4929.122 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5385.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Xperia 10 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5970.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy Z Fold 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5893.193 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5319.161 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4729.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia 7.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5448.80 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5169.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4965.66 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Mate 30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5728.161 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4974.76 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mate 30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4298.185 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Moto G Stylus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4853.108 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5447.163 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5579.116 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4724.158 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4739.80 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4529.63 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4497.118 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5740.71 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5177.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; LG Velvet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5300.75 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4524.159 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy Note 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5891.139 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4548.148 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4815.91 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5293.186 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5207.166 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Zenfone 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5193.196 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5279.103 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4530.190 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5958.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy A32) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5879.148 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Moto One 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4219.68 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4611.163 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LG V60 ThinQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4751.195 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5130.175 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5513.165 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5840.140 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Mate 30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5919.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4563.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5598.97 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4501.185 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Realme 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5009.85 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Zenfone 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4690.163 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LG Velvet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5556.150 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4608.64 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4506.134 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4275.159 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5352.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5456.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4545.117 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4660.97 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Moto One 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4532.196 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5415.123 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4881.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4568.119 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy A32) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5336.94 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4492.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG Velvet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5526.117 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; LG Velvet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5220.125 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Reno 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4420.145 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4248.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4500.84 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4675.98 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy S21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5476.186 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5527.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5916.152 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Moto Edge) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5257.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4890.178 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Zenfone 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5858.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4412.98 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4621.134 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4327.177 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5563.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4278.119 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5409.165 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4706.171 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Realme GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4595.137 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Find X3 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4991.188 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4667.134 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4739.92 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Reno 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5419.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4579.171 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4311.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4819.186 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4946.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4427.168 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Mate 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5051.178 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5585.150 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Zenfone 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4849.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Reno 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5136.92 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4949.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Moto G Stylus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5704.133 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5156.66 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5423.69 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Zenfone 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5612.171 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5089.152 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5566.145 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; OnePlus 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5682.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5121.173 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Moto G Power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5170.72 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy A32) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4757.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4228.74 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Reno 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5305.88 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Realme X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5190.145 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5449.177 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5364.134 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4928.80 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Moto G Power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4820.97 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5085.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Moto One 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5861.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Nokia 7.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5536.115 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LG Velvet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5226.116 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Moto G Power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4502.152 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5703.180 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4361.161 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5628.185 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4487.116 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5292.197 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4905.191 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Y20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4749.173 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5099.125 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy Note 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5591.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5667.76 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy Note 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4695.134 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5140.104 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5393.156 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5005.194 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Zenfone 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4881.191 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4580.139 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5041.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5641.137 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4974.184 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy Note 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5354.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5390.122 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy Note 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4973.94 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; OnePlus 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5970.124 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Nokia 7.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5631.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5957.64 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4819.153 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5156.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy A32) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5929.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5574.185 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5998.144 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5584.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Zenfone 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5914.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5842.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5200.66 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5150.179 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4691.198 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy S21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4286.188 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4723.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5162.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4862.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Reno 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4446.70 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5372.154 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5195.115 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Find X3 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4512.140 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5239.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4248.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Xperia 10 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4767.112 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4219.68 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Galaxy S21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5904.176 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5705.70 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Reno 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4401.84 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5694.170 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5567.197 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5978.94 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5399.155 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4671.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5065.64 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5286.145 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4663.68 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4624.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4522.170 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5803.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; OnePlus 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4546.91 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Xperia 10 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5778.66 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5455.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy Z Fold 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5362.126 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4966.128 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4657.186 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Moto Edge) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4218.179 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Essential Phone PH-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4742.115 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5278.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Y20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4937.194 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5459.188 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4629.90 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Reno 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5125.112 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5811.103 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4646.131 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Mate 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4247.192 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; OnePlus 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4893.192 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5518.186 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4265.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mate 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5721.79 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Zenfone 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4849.174 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Moto Edge) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5212.188 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5385.115 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5506.183 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5728.161 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5023.113 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4391.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5205.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4632.176 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5898.77 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Essential Phone PH-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5380.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4285.75 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5496.122 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4619.137 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5998.71 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4331.156 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; LG V60 ThinQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4722.88 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5665.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LG Wing) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5290.118 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; LG V60 ThinQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4789.68 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4274.109 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Y20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5065.144 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5922.146 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Mate 30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5439.156 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4285.109 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LG Velvet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5121.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5900.154 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4682.188 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4352.86 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5617.73 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5094.125 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5288.92 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5137.75 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4893.164 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4779.69 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5169.77 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4969.184 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy Z Fold 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5710.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4334.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4618.91 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4210.175 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; LG Velvet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5706.104 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5703.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5179.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Essential Phone PH-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5186.91 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5543.167 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4211.159 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5618.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4364.185 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4439.67 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mate 30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5828.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4351.196 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5211.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Xperia 10 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4283.151 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Find X3 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5513.122 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5410.75 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5702.166 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5354.64 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5964.103 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Reno 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5369.157 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LG Velvet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4642.134 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5823.179 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4383.85 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5361.76 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5046.137 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5497.178 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LG V60 ThinQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4232.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4290.71 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy Note 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5121.153 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4205.84 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4432.63 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5249.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5221.195 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5389.170 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Y20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4357.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4778.157 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5605.83 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4877.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; OnePlus 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5764.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4467.145 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; OnePlus 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5050.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5972.123 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5202.74 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5532.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Moto Edge) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4459.140 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4616.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Reno 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5159.137 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5734.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4730.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy S21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4607.86 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Moto G Power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5820.88 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4468.94 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5167.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Xperia 10 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4896.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5491.109 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5375.161 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5213.84 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Mate 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4249.182 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; LG Velvet) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5628.178 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4435.175 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Reno 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5593.193 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4568.94 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; LG Wing) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5618.174 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Xperia 10 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4323.159 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Moto Edge) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4351.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4581.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Moto G Power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5159.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; LG V60 ThinQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4704.142 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4568.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Mate 30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4466.159 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Realme X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4737.159 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Moto One 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4497.102 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4927.144 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5147.170 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4598.152 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5222.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5797.180 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4630.168 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5450.95 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4249.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5542.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4679.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4298.98 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5327.71 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4360.129 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4684.185 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5384.76 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4600.174 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5708.75 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5178.73 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Zenfone 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5956.192 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5540.80 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy S21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4297.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4430.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5616.72 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5331.165 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Realme X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5138.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5884.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Moto One 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5001.182 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi Note 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4838.86 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4562.63 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy Note 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4689.88 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4692.153 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy S21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5081.130 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy S21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5480.152 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4804.73 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Mate 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5468.95 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5822.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5326.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4934.173 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Find X3 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4626.182 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG V60 ThinQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5664.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4578.137 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5405.145 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy Z Fold 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5436.158 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4736.84 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5000.183 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5967.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4231.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5903.70 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4327.187 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5479.156 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5626.196 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4830.157 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5718.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LG Wing) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4224.131 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Moto One 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4486.194 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5681.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Moto G Stylus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4599.103 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4901.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5504.111 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG Wing) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5921.71 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mate 30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5158.151 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4245.193 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi Note 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4832.92 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5912.185 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; OnePlus 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4247.198 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy Z Fold 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5975.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5747.70 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4475.187 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4540.198 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5148.133 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4790.145 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Zenfone 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4910.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4259.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy Note 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4354.86 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4862.75 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Xperia 10 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5444.107 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Reno 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4396.71 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5853.68 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4881.76 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5877.67 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4452.81 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Zenfone 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5692.131 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5554.83 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4985.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5009.183 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Moto Edge) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4414.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4537.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5480.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Find X3 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5423.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mate 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5404.70 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5221.125 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5621.167 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5623.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5018.80 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4927.132 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5356.166 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.5828.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5997.181 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5887.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5042.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4778.75 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4706.182 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5426.141 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4758.153 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5669.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5268.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Reno 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5396.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5684.143 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5946.139 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5756.101 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Moto One 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5080.171 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5431.104 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy Z Fold 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5622.146 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4818.83 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4817.126 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy M31) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5408.91 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5127.197 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5246.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5816.184 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4382.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5085.119 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5771.68 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5189.183 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5431.156 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4468.155 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; BlackBerry Key2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4652.180 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4761.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Moto G Stylus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4374.125 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4967.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4463.192 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5621.191 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5564.156 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4461.103 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; P20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4576.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5856.109 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4501.193 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5927.67 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4370.144 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4899.132 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4461.183 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4393.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LG Wing) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4864.122 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5906.164 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5092.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4869.195 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5567.184 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.5508.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy Z Flip 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4720.186 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5345.104 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4855.76 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5383.66 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4774.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4667.133 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Zenfone 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4750.160 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5781.69 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Xperia 1 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4546.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5797.68 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; P30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4912.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy M51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5890.112 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5028.197 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Poco F3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4826.160 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5257.82 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4929.190 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4380.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4462.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5387.165 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Zenfone 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5212.77 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4605.91 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4480.116 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Galaxy Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5840.80 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4971.137 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5400.84 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4591.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Realme X50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4249.64 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5805.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5169.127 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5109.64 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4577.133 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4974.92 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; BlackBerry Key2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5540.86 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Moto G Power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5400.69 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; P40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5685.95 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5482.128 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Galaxy S20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5512.72 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; ROG Phone 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5395.193 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; OnePlus 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5345.163 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; OnePlus 7T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5927.139 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Realme GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5451.197 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia 7.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5286.161 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Y20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4439.62 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5780.115 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi Note 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4317.167 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia 8.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5863.190 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5800.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5599.78 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Galaxy S21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4807.91 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4983.70 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Pixel 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.4847.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5162.153 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; LG V60 ThinQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5868.152 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Pixel 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5334.188 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Galaxy A51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4884.75 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4808.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Mate 40 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4948.196 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Zenfone 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4333.182 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Xperia 10 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5447.187 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LG Wing) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5578.192 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; A54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4556.84 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Essential Phone PH-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5519.107 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia 5.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5047.157 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5641.151 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia 7.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4220.119 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 4a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4455.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5217.108 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; OnePlus 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4413.169 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Reno 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5421.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Galaxy A72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5425.116 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG V60 ThinQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4897.89 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Moto Edge) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5195.180 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Poco X3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5731.120 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Pixel 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4762.146 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; OnePlus 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5938.160 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Mate 30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4424.98 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Moto Edge) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4304.93 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; V21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5412.99 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4868.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Realme 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5152.155 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Mate 30 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4537.131 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; OnePlus Nord) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5134.148 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Xperia 5 III) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4556.76 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Zenfone 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5424.124 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Find X2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5035.192 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Y20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5122.117 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; X60 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5477.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme 5i) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5096.179 Mobile Safari/537.36
+
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0; iPhone 13) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1103.0.5984.166 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3; iPhone 6s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1108.0.5866.127 Mobile Safari/537.36                                 Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 6s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.193.0.4224.100 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0; iPhone XR) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1110.0.4235.160 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone 4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1105.0.4697.99 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone 11) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.193.0.4483.190 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3; iPhone 13 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.199.0.5585.177 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone XR) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.198.0.5164.178 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone 12) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.4913.76 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 13 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.199.0.5416.143 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1; iPhone 5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.193.0.4971.192 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0; iPhone 12 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1103.0.5259.113 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.193.0.4855.170 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3; iPhone SE) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.4686.195 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0; iPhone 2G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1113.0.4753.170 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone 7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1112.0.5736.153 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4; iPhone XR) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.192.0.5432.75 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.192.0.5457.196 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0; iPhone XR) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1105.0.4521.160 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone 11 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1100.0.5263.167 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 13 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1100.0.4250.159 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone XS) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1113.0.5516.169 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.198.0.5777.140 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 6s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1109.0.5019.148 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0; iPhone 3GS) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1105.0.5266.71 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone SE) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1107.0.4278.172 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone 2G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1113.0.5730.122 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 5s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1104.0.5135.108 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3; iPhone 5s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.198.0.4293.87 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3; iPhone 6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1110.0.5305.118 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.195.0.5533.94 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone 5s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1103.0.5919.183 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4; iPhone X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1107.0.4228.80 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4; iPhone 3GS) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1114.0.4357.114 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3; iPhone 13 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.194.0.5004.84 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0; iPhone 12) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.195.0.5668.154 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0; iPhone XS) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.195.0.5712.180 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone 13 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1111.0.4685.136 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3; iPhone X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1105.0.4702.181 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3; iPhone 4s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.4522.163 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4; iPhone 4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1111.0.4325.143 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3; iPhone 13 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1114.0.4567.149 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone 3GS) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.4290.153 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone XR) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1101.0.5238.92 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone 3G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.194.0.5653.149 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone 8) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1104.0.5677.173 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone 2G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1109.0.4931.175 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 13) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1113.0.5382.67 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1112.0.5070.118 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1109.0.5838.113 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1; iPhone 13 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.196.0.5128.170 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone 4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1112.0.4828.133 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3; iPhone 2G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1114.0.5669.148 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1; iPhone 12) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1100.0.5061.115 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1; iPhone 6s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1107.0.5710.70 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1100.0.4259.134 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.194.0.4825.95 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0; iPhone 8) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.5051.191 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 2G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1102.0.5415.118 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4; iPhone 12) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1109.0.5971.67 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 2G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1103.0.5723.170 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 3GS) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1102.0.5925.196 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 12) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1100.0.4783.70 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3; iPhone 6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.198.0.5070.84 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 2G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.194.0.4562.70 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3; iPhone 8) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.192.0.4789.188 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0; iPhone 12 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.4800.119 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone 4s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1104.0.4251.161 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1; iPhone 11) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1110.0.5256.153 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0; iPhone 11) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.198.0.5810.75 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 2G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1100.0.4588.150 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 5s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.4766.117 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4; iPhone 6s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.5478.165 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3; iPhone 12) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1108.0.4434.107 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 4s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.193.0.5382.112 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone XR) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1109.0.4503.125 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1112.0.4602.154 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_0; iPhone XR) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.5111.79 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3; iPhone 5s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1109.0.4864.198 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3; iPhone 13) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1114.0.4358.161 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0; iPhone 5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1104.0.5140.63 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 13) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1101.0.4649.194 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4; iPhone 3GS) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.192.0.5812.63 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 3GS) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1111.0.5565.151 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3; iPhone 13 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1108.0.5918.113 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 13 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1112.0.4280.129 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0; iPhone SE) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.197.0.5948.191 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_0; iPhone SE) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1109.0.5730.140 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone SE) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.196.0.4787.63 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1; iPhone X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1101.0.5256.142 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2; iPhone 7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1101.0.5216.65 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone 5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1112.0.4856.80 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_3; iPhone 2G) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.197.0.5324.178 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 13) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1106.0.5292.153 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1; iPhone 5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1103.0.5236.197 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_0; iPhone 11 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.198.0.4648.193 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone 12 Pro) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1100.0.5384.113 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2; iPhone 4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1105.0.5034.74 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_4; iPhone 11) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1109.0.5720.154 Mobile Safari/537.36
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1; iPhone 4s) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1107.0.5535.130 Mobile Safari/537.36
