@@ -1,3 +1,4 @@
+import os.random
 for khontol in range(9999):
 	rc = random.choice
 	rr = random.randint
