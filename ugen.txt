@@ -1,100 +1,99 @@
-Mozilla/5.0 (Linux; Android 13; Pixel 5 Build/O281K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4246.46 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Xperia 5 II Build/X748F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/82.0.4379.53 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; Xperia 1 III Build/I410O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3927.55 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Xperia 1 III Build/U905G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4474.50 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; Pixel 6 Build/F77Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.4396.124 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; Xperia 1 III Build/Q293E; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.4205.144 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Xperia 5 II Build/L573P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.4355.145 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Pixel 5 Build/P882Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.4584.76 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Pixel 7 Build/Y595C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.4796.110 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Moto G100 Build/Y905K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.3930.51 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Pixel 7 Build/K233B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4224.106 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; Moto G100 Build/J183P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.4643.63 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; Moto G100 Build/F662B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.3507.45 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; Redmi Note 10 Build/H191B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.3638.58 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Xperia 5 II Build/N617K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.4166.149 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Mi 11 Build/A463A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.3882.109 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; OnePlus 8T Build/Q370S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.3115.110 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Mi 11 Build/O129I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.4484.150 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Pixel 7 Build/C109U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4551.109 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Redmi Note 10 Build/S109H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.4748.113 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; OnePlus 9 Build/C916Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.3686.89 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Redmi Note 10 Build/Z285F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.3762.134 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; OnePlus 8T Build/Z371U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.4215.137 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; OnePlus 8T Build/J731S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.3890.124 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; Xperia 1 III Build/R411Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4164.55 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; Mi 11 Build/Y289U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4257.67 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; OnePlus 8T Build/Z806N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.4873.90 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Mi 11 Build/N982S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/82.0.4791.103 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Moto G100 Build/C375P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4616.95 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; OnePlus 9 Build/B123H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.4255.123 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; Xperia 5 II Build/O215O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4300.105 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; Pixel 7 Build/Z462T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3875.95 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Redmi Note 10 Build/C535Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4243.118 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; Mi 11 Build/H760S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4646.146 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Redmi Note 10 Build/O626U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3973.82 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Moto G100 Build/S769I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.3657.46 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; Pixel 5 Build/Y85V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.3227.93 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; OnePlus 8T Build/V52C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4631.42 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; OnePlus 9 Build/L681O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.4204.129 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Pixel 6 Build/L286D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4639.89 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; Xperia 5 II Build/N294R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.3766.121 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; OnePlus 8T Build/K514J; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3170.123 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; OnePlus 8T Build/N4R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.4809.74 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; OnePlus 8T Build/M920N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3195.59 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Pixel 6 Build/S486B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.3236.135 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; Moto G100 Build/G792C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.3461.49 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Redmi Note 10 Build/N355B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.4069.93 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Redmi Note 10 Build/A864K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.3947.82 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; OnePlus 9 Build/H512W; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.3350.48 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Pixel 7 Build/T216K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.3272.116 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Xperia 5 II Build/M610R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4314.146 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; Pixel 7 Build/H269O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4052.92 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Redmi Note 10 Build/X50N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.3937.43 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Xperia 1 III Build/X498I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3402.148 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Xperia 1 III Build/F3D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.3443.136 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Redmi Note 10 Build/N681Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.3571.101 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Redmi Note 10 Build/V291A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.4197.132 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; Moto G100 Build/O850O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.3516.127 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Xperia 1 III Build/N947Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.3131.147 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; Pixel 6 Build/N308D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4460.83 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Pixel 6 Build/I199F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3084.49 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Mi 11 Build/L485G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4856.130 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Xperia 1 III Build/C279Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.4489.95 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; Redmi Note 10 Build/F521S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.4110.48 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Redmi Note 10 Build/C607F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3827.97 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; Redmi Note 10 Build/C420R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4700.107 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Pixel 5 Build/B19H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3577.94 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Pixel 7 Build/C802I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.4553.52 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Xperia 5 II Build/F825O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.3780.97 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Pixel 5 Build/W615G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.3130.49 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Xperia 1 III Build/V364F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.3248.116 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Mi 11 Build/X693R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.3780.130 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Pixel 7 Build/O359L; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4710.86 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Redmi Note 10 Build/A109H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.3275.72 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Xperia 1 III Build/M709Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4027.142 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Mi 11 Build/J810E; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.4475.76 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; OnePlus 8T Build/H751H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.3264.92 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Mi 11 Build/D667T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.4081.48 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; OnePlus 9 Build/S351I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.3132.57 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Xperia 5 II Build/R787W; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4451.62 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Pixel 5 Build/Y2E; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.3450.148 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Pixel 7 Build/I752Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.3046.58 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Pixel 5 Build/Y888T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/82.0.3862.46 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Pixel 7 Build/T252B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.4818.119 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; Xperia 1 III Build/Z240K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.4659.97 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 7.0; Redmi Note 10 Build/V340M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4683.64 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Pixel 7 Build/G776A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/82.0.4021.139 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Pixel 7 Build/V466I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3499.72 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; Mi 11 Build/L586R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.3232.57 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; OnePlus 8T Build/J2Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.3261.98 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 11; Moto G100 Build/G691E; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.4069.98 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Pixel 5 Build/R428Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.4381.139 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; Moto G100 Build/H857D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4225.112 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 8.0.0; Redmi Note 10 Build/O564Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.4166.141 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Redmi Note 10 Build/J837H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.3149.94 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 12; Xperia 1 III Build/C115R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.4132.131 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Pixel 5 Build/L194Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.4254.48 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; OnePlus 8T Build/A373C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.3888.108 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; Pixel 6 Build/K705O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.3739.88 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 13; Pixel 7 Build/A847B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4809.42 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Xperia 5 II Build/A930H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.4373.82 Mobile Safari/537.36 [FBAN/FB4A;FBAV/313.0.0.55.42;]               Mozilla/5.0 (Linux; Android 12; Nokia 8.3 Build/N245U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.4634.59 Mobile Safari/537.36 [FBAN/FB4A;FBAV/392.0.0.22.22;]
+Mozilla/5.0 (Linux; Android 7.0; OnePlus 9 Build/A874V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.3321.119 Mobile Safari/537.36 [FBAN/FB4A;FBAV/374.0.0.36.37;]
+Mozilla/5.0 (Linux; Android 12; Pixel 5 Build/R385D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.3131.77 Mobile Safari/537.36 [FBAN/FB4A;FBAV/352.0.0.70.74;]
+Mozilla/5.0 (Linux; Android 11; Moto G100 Build/L916R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.3842.146 Mobile Safari/537.36 [FBAN/FB4A;FBAV/388.0.0.32.22;]
+Mozilla/5.0 (Linux; Android 10; HTC U12+ Build/A184S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.3221.58 Mobile Safari/537.36 [FBAN/FB4A;FBAV/378.0.0.9.18;]
+Mozilla/5.0 (Linux; Android 11; HTC U12+ Build/G276M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.3632.54 Mobile Safari/537.36 [FBAN/FB4A;FBAV/306.0.0.3.91;]
+Mozilla/5.0 (Linux; Android 8.0.0; OnePlus 9 Build/R101Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4719.112 Mobile Safari/537.36 [FBAN/FB4A;FBAV/376.0.0.64.41;]
+Mozilla/5.0 (Linux; Android 8.0.0; HTC U12+ Build/J72C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.3157.97 Mobile Safari/537.36 [FBAN/FB4A;FBAV/347.0.0.73.87;]
+Mozilla/5.0 (Linux; Android 8.0.0; Realme GT Build/Y528N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.3594.114 Mobile Safari/537.36 [FBAN/FB4A;FBAV/373.0.0.48.52;]
+Mozilla/5.0 (Linux; Android 8.0.0; Vivo X60 Build/B824R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.3578.81 Mobile Safari/537.36 [FBAN/FB4A;FBAV/331.0.0.80.96;]
+Mozilla/5.0 (Linux; Android 9; Pixel 7 Build/V432H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.3866.42 Mobile Safari/537.36 [FBAN/FB4A;FBAV/356.0.0.67.60;]
+Mozilla/5.0 (Linux; Android 12; Pixel 7 Build/M435F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4610.138 Mobile Safari/537.36 [FBAN/FB4A;FBAV/358.0.0.8.37;]
+Mozilla/5.0 (Linux; Android 14; Oppo Find X3 Build/L122N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.3564.43 Mobile Safari/537.36 [FBAN/FB4A;FBAV/312.0.0.51.18;]
+Mozilla/5.0 (Linux; Android 11; HTC U12+ Build/G313I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.3467.69 Mobile Safari/537.36 [FBAN/FB4A;FBAV/319.0.0.76.73;]
+Mozilla/5.0 (Linux; Android 13; Lenovo Legion Phone Duel Build/K294P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.3788.123 Mobile Safari/537.36 [FBAN/FB4A;FBAV/392.0.0.7.29;]
+Mozilla/5.0 (Linux; Android 11; Infinix Hot 10 Build/P13O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.3268.66 Mobile Safari/537.36 [FBAN/FB4A;FBAV/370.0.0.15.23;]
+Mozilla/5.0 (Linux; Android 10; Walton Primo X7 Build/C188B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4692.142 Mobile Safari/537.36 [FBAN/FB4A;FBAV/367.0.0.62.53;]
+Mozilla/5.0 (Linux; Android 8.0.0; Moto G100 Build/F847J; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/82.0.3233.145 Mobile Safari/537.36 [FBAN/FB4A;FBAV/351.0.0.79.27;]
+Mozilla/5.0 (Linux; Android 14; Infinix Hot 10 Build/V780X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.4646.131 Mobile Safari/537.36 [FBAN/FB4A;FBAV/319.0.0.70.73;]
+Mozilla/5.0 (Linux; Android 13; Mi 11 Build/U688X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.3233.66 Mobile Safari/537.36 [FBAN/FB4A;FBAV/362.0.0.31.69;]
+Mozilla/5.0 (Linux; Android 7.0; Redmi Note 10 Build/K293C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.3954.67 Mobile Safari/537.36 [FBAN/FB4A;FBAV/365.0.0.10.38;]
+Mozilla/5.0 (Linux; Android 8.0.0; Mi 11 Build/Z81C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.4384.143 Mobile Safari/537.36 [FBAN/FB4A;FBAV/318.0.0.30.46;]
+Mozilla/5.0 (Linux; Android 8.0.0; Redmi Note 10 Build/T540A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.4829.95 Mobile Safari/537.36 [FBAN/FB4A;FBAV/336.0.0.43.100;]
+Mozilla/5.0 (Linux; Android 10; Vivo X60 Build/C261O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.3258.108 Mobile Safari/537.36 [FBAN/FB4A;FBAV/390.0.0.72.91;]
+Mozilla/5.0 (Linux; Android 13; Infinix Hot 10 Build/O948T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.4104.111 Mobile Safari/537.36 [FBAN/FB4A;FBAV/399.0.0.37.46;]
+Mozilla/5.0 (Linux; Android 12; Xperia 5 II Build/B331L; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4108.52 Mobile Safari/537.36 [FBAN/FB4A;FBAV/330.0.0.72.86;]
+Mozilla/5.0 (Linux; Android 12; Xperia 1 III Build/I841S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.4459.46 Mobile Safari/537.36 [FBAN/FB4A;FBAV/342.0.0.30.81;]
+Mozilla/5.0 (Linux; Android 13; Pixel 6 Build/S774J; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3091.119 Mobile Safari/537.36 [FBAN/FB4A;FBAV/367.0.0.77.38;]
+Mozilla/5.0 (Linux; Android 13; Walton Primo X7 Build/Z494W; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.3825.130 Mobile Safari/537.36 [FBAN/FB4A;FBAV/311.0.0.27.69;]
+Mozilla/5.0 (Linux; Android 7.0; LG Wing Build/J553P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.3480.77 Mobile Safari/537.36 [FBAN/FB4A;FBAV/384.0.0.25.75;]
+Mozilla/5.0 (Linux; Android 13; Pixel 5 Build/G23D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.3338.46 Mobile Safari/537.36 [FBAN/FB4A;FBAV/380.0.0.61.45;]
+Mozilla/5.0 (Linux; Android 8.0.0; Asus ROG Phone 5 Build/V735C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.4702.60 Mobile Safari/537.36 [FBAN/FB4A;FBAV/320.0.0.13.91;]
+Mozilla/5.0 (Linux; Android 10; Xperia 1 III Build/W808I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.3514.143 Mobile Safari/537.36 [FBAN/FB4A;FBAV/364.0.0.59.98;]
+Mozilla/5.0 (Linux; Android 7.0; Pixel 6 Build/N481V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.3870.62 Mobile Safari/537.36 [FBAN/FB4A;FBAV/389.0.0.67.87;]
+Mozilla/5.0 (Linux; Android 11; HTC U12+ Build/M362W; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.3893.119 Mobile Safari/537.36 [FBAN/FB4A;FBAV/353.0.0.40.82;]
+Mozilla/5.0 (Linux; Android 14; Symphony Z30 Build/P183S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.3096.107 Mobile Safari/537.36 [FBAN/FB4A;FBAV/313.0.0.11.13;]
+Mozilla/5.0 (Linux; Android 9; Walton Primo X7 Build/I629G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4060.63 Mobile Safari/537.36 [FBAN/FB4A;FBAV/388.0.0.57.73;]
+Mozilla/5.0 (Linux; Android 11; Realme GT Build/P921Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.3261.108 Mobile Safari/537.36 [FBAN/FB4A;FBAV/399.0.0.80.36;]
+Mozilla/5.0 (Linux; Android 9; Moto G100 Build/O549B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.4706.55 Mobile Safari/537.36 [FBAN/FB4A;FBAV/379.0.0.10.68;]
+Mozilla/5.0 (Linux; Android 11; Xperia 5 II Build/S522Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.3959.111 Mobile Safari/537.36 [FBAN/FB4A;FBAV/312.0.0.67.65;]
+Mozilla/5.0 (Linux; Android 9; OnePlus 8T Build/M679T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.3559.125 Mobile Safari/537.36 [FBAN/FB4A;FBAV/358.0.0.42.50;]
+Mozilla/5.0 (Linux; Android 14; Nokia 8.3 Build/J64W; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.3772.92 Mobile Safari/537.36 [FBAN/FB4A;FBAV/341.0.0.5.98;]
+Mozilla/5.0 (Linux; Android 14; Tecno Spark 7 Build/N9Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.3076.133 Mobile Safari/537.36 [FBAN/FB4A;FBAV/349.0.0.16.90;]
+Mozilla/5.0 (Linux; Android 8.0.0; Walton Primo X7 Build/B858J; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.3390.100 Mobile Safari/537.36 [FBAN/FB4A;FBAV/397.0.0.77.88;]
+Mozilla/5.0 (Linux; Android 14; Itel A56 Build/E316Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.4604.46 Mobile Safari/537.36 [FBAN/FB4A;FBAV/301.0.0.23.11;]
+Mozilla/5.0 (Linux; Android 11; HTC U12+ Build/V65J; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.3994.149 Mobile Safari/537.36 [FBAN/FB4A;FBAV/353.0.0.30.19;]
+Mozilla/5.0 (Linux; Android 13; Moto G100 Build/B451T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.3947.149 Mobile Safari/537.36 [FBAN/FB4A;FBAV/331.0.0.24.36;]
+Mozilla/5.0 (Linux; Android 11; Oppo Find X3 Build/I78U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4406.75 Mobile Safari/537.36 [FBAN/FB4A;FBAV/350.0.0.24.32;]
+Mozilla/5.0 (Linux; Android 9; LG Wing Build/L911R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.3457.149 Mobile Safari/537.36 [FBAN/FB4A;FBAV/328.0.0.33.96;]
+Mozilla/5.0 (Linux; Android 7.0; Vivo X60 Build/F100X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/81.0.4528.137 Mobile Safari/537.36 [FBAN/FB4A;FBAV/313.0.0.2.40;]
+Mozilla/5.0 (Linux; Android 12; OnePlus 9 Build/L383W; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.4041.93 Mobile Safari/537.36 [FBAN/FB4A;FBAV/399.0.0.1.55;]
+Mozilla/5.0 (Linux; Android 14; Itel A56 Build/T132I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4423.93 Mobile Safari/537.36 [FBAN/FB4A;FBAV/310.0.0.68.82;]
+Mozilla/5.0 (Linux; Android 11; Pixel 6 Build/Q827C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.3188.101 Mobile Safari/537.36 [FBAN/FB4A;FBAV/337.0.0.37.92;]
+Mozilla/5.0 (Linux; Android 9; OnePlus 9 Build/H585C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/108.0.3672.115 Mobile Safari/537.36 [FBAN/FB4A;FBAV/398.0.0.38.81;]
+Mozilla/5.0 (Linux; Android 7.0; Tecno Spark 7 Build/N79J; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3825.114 Mobile Safari/537.36 [FBAN/FB4A;FBAV/390.0.0.49.95;]
+Mozilla/5.0 (Linux; Android 7.0; Lenovo Legion Phone Duel Build/A830Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.3300.79 Mobile Safari/537.36 [FBAN/FB4A;FBAV/395.0.0.1.50;]
+Mozilla/5.0 (Linux; Android 9; Moto G100 Build/Z70X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.3202.59 Mobile Safari/537.36 [FBAN/FB4A;FBAV/395.0.0.76.63;]
+Mozilla/5.0 (Linux; Android 8.0.0; Realme GT Build/K547Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4263.125 Mobile Safari/537.36 [FBAN/FB4A;FBAV/377.0.0.5.62;]
+Mozilla/5.0 (Linux; Android 14; Tecno Spark 7 Build/I881U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.3979.97 Mobile Safari/537.36 [FBAN/FB4A;FBAV/360.0.0.48.56;]
+Mozilla/5.0 (Linux; Android 13; LG Wing Build/T936R; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.3838.128 Mobile Safari/537.36 [FBAN/FB4A;FBAV/334.0.0.27.51;]
+Mozilla/5.0 (Linux; Android 9; Pixel 7 Build/L610P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4553.101 Mobile Safari/537.36 [FBAN/FB4A;FBAV/392.0.0.67.74;]
+Mozilla/5.0 (Linux; Android 9; Moto G100 Build/F74K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.3663.130 Mobile Safari/537.36 [FBAN/FB4A;FBAV/336.0.0.59.65;]
+Mozilla/5.0 (Linux; Android 12; Itel A56 Build/S767P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.4169.86 Mobile Safari/537.36 [FBAN/FB4A;FBAV/330.0.0.14.34;]
+Mozilla/5.0 (Linux; Android 14; Itel A56 Build/D103F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.4376.64 Mobile Safari/537.36 [FBAN/FB4A;FBAV/343.0.0.44.31;]
+Mozilla/5.0 (Linux; Android 10; Itel A56 Build/U98U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.4087.129 Mobile Safari/537.36 [FBAN/FB4A;FBAV/362.0.0.24.69;]
+Mozilla/5.0 (Linux; Android 14; Mi 11 Build/S869Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.4313.89 Mobile Safari/537.36 [FBAN/FB4A;FBAV/341.0.0.62.35;]
+Mozilla/5.0 (Linux; Android 12; OnePlus 9 Build/P302Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.3145.113 Mobile Safari/537.36 [FBAN/FB4A;FBAV/366.0.0.31.68;]
+Mozilla/5.0 (Linux; Android 10; Tecno Spark 7 Build/N908A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3911.139 Mobile Safari/537.36 [FBAN/FB4A;FBAV/332.0.0.57.23;]
+Mozilla/5.0 (Linux; Android 10; HTC U12+ Build/V429Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4703.131 Mobile Safari/537.36 [FBAN/FB4A;FBAV/338.0.0.3.12;]
+Mozilla/5.0 (Linux; Android 13; OnePlus 8T Build/A698B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4862.105 Mobile Safari/537.36 [FBAN/FB4A;FBAV/387.0.0.10.50;]
+Mozilla/5.0 (Linux; Android 13; OnePlus 9 Build/D575V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.4614.145 Mobile Safari/537.36 [FBAN/FB4A;FBAV/325.0.0.2.16;]
+Mozilla/5.0 (Linux; Android 12; Pixel 7 Build/G564I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.3656.121 Mobile Safari/537.36 [FBAN/FB4A;FBAV/313.0.0.53.16;]
+Mozilla/5.0 (Linux; Android 9; LG Wing Build/X362G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3563.50 Mobile Safari/537.36 [FBAN/FB4A;FBAV/322.0.0.46.84;]
+Mozilla/5.0 (Linux; Android 7.0; Symphony Z30 Build/A754K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.4146.81 Mobile Safari/537.36 [FBAN/FB4A;FBAV/378.0.0.2.49;]
+Mozilla/5.0 (Linux; Android 7.0; Redmi Note 10 Build/Y835V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/109.0.3626.120 Mobile Safari/537.36 [FBAN/FB4A;FBAV/386.0.0.25.77;]
+Mozilla/5.0 (Linux; Android 10; Xperia 5 II Build/D998B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.4370.99 Mobile Safari/537.36 [FBAN/FB4A;FBAV/329.0.0.66.77;]
+Mozilla/5.0 (Linux; Android 10; Xperia 5 II Build/E107Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.3159.132 Mobile Safari/537.36 [FBAN/FB4A;FBAV/329.0.0.30.82;]
+Mozilla/5.0 (Linux; Android 11; Mi 11 Build/M438Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.3338.85 Mobile Safari/537.36 [FBAN/FB4A;FBAV/308.0.0.7.82;]
+Mozilla/5.0 (Linux; Android 13; HTC U12+ Build/R587Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.3075.53 Mobile Safari/537.36 [FBAN/FB4A;FBAV/358.0.0.65.74;]
+Mozilla/5.0 (Linux; Android 12; Symphony Z30 Build/H766V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.4701.41 Mobile Safari/537.36 [FBAN/FB4A;FBAV/319.0.0.52.71;]
+Mozilla/5.0 (Linux; Android 13; Nokia 8.3 Build/M534G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.4028.95 Mobile Safari/537.36 [FBAN/FB4A;FBAV/386.0.0.14.48;]
+Mozilla/5.0 (Linux; Android 13; OnePlus 8T Build/Q633I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.3928.67 Mobile Safari/537.36 [FBAN/FB4A;FBAV/355.0.0.77.39;]
+Mozilla/5.0 (Linux; Android 9; LG Wing Build/H379P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/75.0.3107.96 Mobile Safari/537.36 [FBAN/FB4A;FBAV/394.0.0.34.88;]
+Mozilla/5.0 (Linux; Android 8.0.0; Vivo X60 Build/V508Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.4515.122 Mobile Safari/537.36 [FBAN/FB4A;FBAV/328.0.0.75.62;]
+Mozilla/5.0 (Linux; Android 7.0; Xperia 1 III Build/S64P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.4021.66 Mobile Safari/537.36 [FBAN/FB4A;FBAV/334.0.0.60.29;]
+Mozilla/5.0 (Linux; Android 10; OnePlus 9 Build/V702X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4527.95 Mobile Safari/537.36 [FBAN/FB4A;FBAV/334.0.0.28.80;]
+Mozilla/5.0 (Linux; Android 14; Vivo X60 Build/C671Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.3502.59 Mobile Safari/537.36 [FBAN/FB4A;FBAV/333.0.0.70.79;]
+Mozilla/5.0 (Linux; Android 12; Nokia 8.3 Build/R928S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.3512.115 Mobile Safari/537.36 [FBAN/FB4A;FBAV/300.0.0.9.41;]
+Mozilla/5.0 (Linux; Android 9; Realme GT Build/X140D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/110.0.3752.134 Mobile Safari/537.36 [FBAN/FB4A;FBAV/375.0.0.31.46;]
+Mozilla/5.0 (Linux; Android 10; Pixel 7 Build/V344E; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.4327.70 Mobile Safari/537.36 [FBAN/FB4A;FBAV/395.0.0.37.91;]
+Mozilla/5.0 (Linux; Android 7.0; Oppo Find X3 Build/T115O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.3934.95 Mobile Safari/537.36 [FBAN/FB4A;FBAV/305.0.0.20.88;]
+Mozilla/5.0 (Linux; Android 14; Vivo X60 Build/R907H; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.4250.150 Mobile Safari/537.36 [FBAN/FB4A;FBAV/325.0.0.18.13;]
+Mozilla/5.0 (Linux; Android 12; Oppo Find X3 Build/G965P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.3581.143 Mobile Safari/537.36 [FBAN/FB4A;FBAV/356.0.0.40.77;]
+Mozilla/5.0 (Linux; Android 12; Xperia 5 II Build/M923X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.3480.76 Mobile Safari/537.36 [FBAN/FB4A;FBAV/317.0.0.2.74;]
+Mozilla/5.0 (Linux; Android 12; Nokia 8.3 Build/S402O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.3848.135 Mobile Safari/537.36 [FBAN/FB4A;FBAV/354.0.0.37.96;]
+Mozilla/5.0 (Linux; Android 7.0; Symphony Z30 Build/B655D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4759.69 Mobile Safari/537.36 [FBAN/FB4A;FBAV/326.0.0.75.59;]
+Mozilla/5.0 (Linux; Android 11; Lenovo Legion Phone Duel Build/U338W; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.3512.132 Mobile Safari/537.36 [FBAN/FB4A;FBAV/388.0.0.59.91;]
+Mozilla/5.0 (Linux; Android 9; Asus ROG Phone 5 Build/Q826S; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3863.88 Mobile Safari/537.36 [FBAN/FB4A;FBAV/369.0.0.43.66;]
+Mozilla/5.0 (Linux; Android 12; Infinix Hot 10 Build/Y174D; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.4152.53 Mobile Safari/537.36 [FBAN/FB4A;FBAV/341.0.0.28.83;]
